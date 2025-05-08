@@ -1,0 +1,181 @@
+<theme>
+	<view name="system">
+	<carousel name="system">
+		<pos>0.5 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>1 1</size>
+		<maxItemCount>3</maxItemCount>
+		<itemSize>0.35 0.6</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.25 0.25</selectedItemMargins>
+		<itemScale>1.45</itemScale>
+		<color>00000000</color>
+	</carousel>
+	
+	<text name="shortdescription">
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.029</fontSize>
+		<zIndex>15</zIndex>
+		<backgroundCornerRadius>0.01</backgroundCornerRadius>
+		<backgroundMargins>0.01 0.01</backgroundMargins>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+
+	<variant name="controllersmallgamelist, controllerlargegamelist, controllerlargegamelistnolines, controllersmallgamelistnolines">
+	<view name="system">
+	<image name="controllers">
+		<opacity>.85</opacity>
+		<pos>0.5 0.485</pos>
+		<origin>0.5 0.5</origin>
+		<gradientType>vertical</gradientType>
+		<colorEnd>00000000</colorEnd>
+		<stationary>always</stationary>
+		<maxSize>.5 .85</maxSize>
+		<zIndex>17</zIndex>
+	</image>
+	</view>
+	</variant>
+
+	<variant name="controllerlargegamelistnolines, controllersmallgamelistnolines">
+	<view name="gamelist, system">
+	<image name="line1, line2">
+		<visible>false</visible>
+	</image>
+	</view>
+	</variant>
+	
+	<variant name="smallgamelistnolinesorcontrollers, largegamelistnolinesorcontrollers">
+	<view name="system">
+	<image name="controllers">
+		<visible>false</visible>
+	</image>
+	</view>
+	<view name="gamelist, system">
+	<image name="line1, line2">
+		<visible>false</visible>
+	</image>
+	</view>
+	</variant>
+	
+	<variant name="controllersmallgamelist, smallgamelist, controllersmallgamelistnolines, smallgamelistnolinesorcontrollers">
+	<view name="gamelist">
+	<carousel name="gamelist">
+		<pos>0.5 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>1 1</size>
+		<maxItemCount>5</maxItemCount>
+		<itemSize>0.2 0.45</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.05 0.05</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>4</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<verticalOffset>.2</verticalOffset>
+		<itemScale>1.4</itemScale>
+		<color>00000000</color>
+		<zIndex>14</zIndex>
+	</carousel>
+	<text name="name">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.029</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<color>${selectedText}</color>
+		<backgroundColor>${selectorColor}</backgroundColor>
+		<backgroundCornerRadius>0.01</backgroundCornerRadius>
+		<backgroundMargins>0.01 0.01</backgroundMargins>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</variant>
+	
+	<variant name="controllerlargegamelist, largegamelist, controllerlargegamelistnolines, largegamelistnolinesorcontrollers">
+	<view name="gamelist">
+	<carousel name="gamelist">
+		<pos>0.5 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<verticalOffset>.28</verticalOffset>
+		<size>1 1</size>
+		<maxItemCount>4.65</maxItemCount>
+		<itemSize>0.28 0.58</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.05 0.05</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>4</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<itemScale>1.425</itemScale>
+		<color>00000000</color>
+		<zIndex>14</zIndex>
+	</carousel>
+	<text name="name">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.029</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<color>${selectedText}</color>
+		<backgroundColor>${selectorColor}</backgroundColor>
+		<backgroundCornerRadius>0.01</backgroundCornerRadius>
+		<backgroundMargins>0.01 0.01</backgroundMargins>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</variant>
+
+	<view name="gamelist, system">
+	<image name="line1">
+		<pos>0.1 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>0 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>00000000</color>
+		<colorEnd>FFFFFFFF</colorEnd>
+	</image>
+	
+	<image name="line2">
+		<pos>0.9 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>1 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>FFFFFFFF</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	<helpsystem name="help">
+		<entries>
+			a,
+			back,
+			b,
+			l,
+			r,
+		</entries>
+	</helpsystem>
+	<image name="background">
+		<pos>0 0</pos>
+		<size>1 1</size>
+	</image>
+	<clock name="clock">
+		<backgroundColor>${selectorColor}</backgroundColor>
+		<backgroundHorizontalPadding>0.005 0.005</backgroundHorizontalPadding>
+		<backgroundVerticalPadding>0.005 0.005</backgroundVerticalPadding>
+		<backgroundCornerRadius>0.01</backgroundCornerRadius>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<backgroundColor>${selectorColor}</backgroundColor>
+		<backgroundHorizontalPadding>0.005 0.005</backgroundHorizontalPadding>
+		<backgroundVerticalPadding>0.005 0.005</backgroundVerticalPadding>
+		<backgroundCornerRadius>0.01</backgroundCornerRadius>
+	</systemstatus>
+	</view>
+</theme>

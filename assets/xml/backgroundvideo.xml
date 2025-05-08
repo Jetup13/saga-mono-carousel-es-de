@@ -1,0 +1,7 @@
+<theme>
+	<variant name="backgroundvideo">
+	<variables>
+		<background>./assets/images/generic.png</background>
+	</variables>
+	</variant>
+</theme>

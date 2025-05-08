@@ -1,0 +1,105 @@
+<themeCapabilities>
+	<themeName>Saga Mono-Carousel</themeName>
+	
+	<aspectRatio>16:9</aspectRatio>
+	<aspectRatio>16:10</aspectRatio>
+	<aspectRatio>19.5:9</aspectRatio>
+	<aspectRatio>21:9</aspectRatio>
+	<aspectRatio>4:3</aspectRatio>
+	<aspectRatio>1:1</aspectRatio>
+	
+	<language>en_US</language>
+	<language>es_ES</language>
+	<language>fr_FR</language>
+	<language>it_IT</language>
+	<language>pl_PL</language>
+	<language>pt_BR</language>
+	<language>ro_RO</language>
+	<language>ru_RU</language>
+	<language>sv_SE</language>
+	<language>ja_JP</language>
+	<language>zh_CN</language>
+	
+	<variant name="controllerlargegamelist">
+		<label>Controllers Large Gamelist</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<variant name="controllersmallgamelist">
+		<label>Controllers Small Gamelist</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="largegamelist">
+		<label>Large Gamelist w/o Controllers</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="smallgamelist">
+		<label>Small Gamelist w/o Controllers</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<variant name="controllerlargegamelistnolines">
+		<label>Controllers Lg Gmlst w/o Lines</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="controllersmallgamelistnolines">
+		<label>Controllers Sm Gmlst w/o Lines</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="largegamelistnolinesorcontrollers">
+		<label>Lg Gmlst w/o Lines or Ctrls</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="smallgamelistnolinesorcontrollers">
+		<label>Sm Gmlst w/o Lines or Ctrls</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<colorScheme name="white">
+		<label>White</label>
+	</colorScheme>
+	<colorScheme name="cloudgrey">
+		<label>Cloud Grey</label>
+	</colorScheme>
+	<colorScheme name="washedlemon">
+		<label>Washed Lemon</label>
+	</colorScheme>
+	<colorScheme name="paleamber">
+		<label>Pale Amber</label>
+	</colorScheme>
+	<colorScheme name="mint">
+		<label>Mint</label>
+	</colorScheme>
+	<colorScheme name="sagegreen">
+		<label>Sage Green</label>
+	</colorScheme>
+	<colorScheme name="babyblue">
+		<label>Baby Blue</label>
+	</colorScheme>
+	<colorScheme name="dustyblue">
+		<label>Dusty Blue</label>
+	</colorScheme>
+	<colorScheme name="orange">
+		<label>Orange</label>
+	</colorScheme>
+	<colorScheme name="cardinalred">
+		<label>Cardinal Red</label>
+	</colorScheme>
+	<colorScheme name="rosymist">
+		<label>Rosy Mist</label>
+	</colorScheme>
+	<colorScheme name="fuchsiapink">
+		<label>Fuchsia Pink</label>
+	</colorScheme>
+	<colorScheme name="purple">
+		<label>Purple</label>
+	</colorScheme>
+	<colorScheme name="systemcolor">
+		<label>System Color</label>
+	</colorScheme>
+</themeCapabilities>

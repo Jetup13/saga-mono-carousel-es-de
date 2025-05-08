@@ -1,0 +1,20 @@
+<theme>
+	<variables>
+		<missing>./assets/images/missing.png</missing>
+		<background>./assets/images/generic.png</background>
+		<font>./assets/font/notosansbold.ttf</font>
+		<logos>./assets/logos/${system.theme}.svg</logos>
+		<controllers>./assets/controllers/${system.theme}.svg</controllers>
+		<lineimage>./assets/images/line.png</lineimage>
+		<gradientimage>./assets/images/gradient.svg</gradientimage>
+		<selector>RRGGBB00</selector>
+		<wifi>./assets/images/wifi.png</wifi>
+		<batterycharge>./assets/images/batcharge.png</batterycharge>
+		<batterylow>./assets/images/batlow.png</batterylow>
+		<batterymedium>./assets/images/batmed.png</batterymedium>
+		<batteryhigh>./assets/images/bathigh.png</batteryhigh>
+		<batteryfull>./assets/images/batfull.png</batteryfull>
+		<cell>./assets/images/cell.png</cell>
+		<bluetooth>./assets/images/bluetooth.png</bluetooth>
+	</variables>
+</theme>

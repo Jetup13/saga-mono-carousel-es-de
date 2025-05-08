@@ -1,0 +1,124 @@
+<theme>
+	<include>./assets/xml/variables.xml</include>
+	<include>./assets/xml/colors.xml</include>
+	<include>./systems/${system.theme}.xml</include>
+	
+	<aspectRatio name="16:9">
+        <include>./assets/xml/aspect-ratio-16-9.xml</include>
+    </aspectRatio>
+	<aspectRatio name="16:10">
+        <include>./assets/xml/aspect-ratio-16-10.xml</include>
+    </aspectRatio>
+	<aspectRatio name="19.5:9">
+        <include>./assets/xml/aspect-ratio-19-5-9.xml</include>
+    </aspectRatio>
+	<aspectRatio name="21:9">
+        <include>./assets/xml/aspect-ratio-21-9.xml</include>
+    </aspectRatio>
+	<aspectRatio name="4:3">
+        <include>./assets/xml/aspect-ratio-4-3.xml</include>
+    </aspectRatio>
+	<aspectRatio name="1:1">
+        <include>./assets/xml/aspect-ratio-1-1.xml</include>
+    </aspectRatio>
+	
+	<view name="system">
+	<carousel name="system">
+		<staticImage>${logos}</staticImage>
+		<unfocusedItemOpacity>1</unfocusedItemOpacity>
+		<unfocusedItemDimming>0.25</unfocusedItemDimming>
+		<unfocusedItemSaturation>1</unfocusedItemSaturation>
+		<color>00000000</color>
+		<type>horizontal</type>
+	</carousel>
+	<text name="sys_line1">
+		<visible>false</visible>
+	</text>
+	<text name="sys_line2">
+		<visible>false</visible>
+	</text>
+	<text name="longdescription">
+		<visible>false</visible>
+	</text>
+	<text name="shortdescription">
+		<visible>false</visible>
+		<fontPath>${font}</fontPath>
+		<color>${selectedText}</color>
+		<backgroundColor>${selectorColor}</backgroundColor>
+	</text>
+	</view>
+
+	<variant name="controllersmallgamelist, controllerlargegamelist, controllersmallgamelistnolines, controllerlargegamelistnolines">
+	<view name="system">
+	<image name="controllers">
+		<color>${selectorColor}</color>
+		<path>${controllers}</path>
+	</image>
+	</view>
+	</variant>
+	
+	<variant name="controllersmallgamelist, controllerlargegamelist, smallgamelist, largegamelist, controllersmallgamelistnolines, controllerlargegamelistnolines, smallgamelistnolinesorcontrollers, largegamelistnolinesorcontrollers">
+	<view name="gamelist">
+	<carousel name="gamelist">
+		<defaultImage>${missing}</defaultImage>
+		<unfocusedItemOpacity>1</unfocusedItemOpacity>
+		<unfocusedItemDimming>0.25</unfocusedItemDimming>
+		<unfocusedItemSaturation>1</unfocusedItemSaturation>
+		<imageType>cover</imageType>
+		<color>00000000</color>
+		<type>horizontal</type>
+	</carousel>
+	<text name="name">
+		<visible>false</visible>
+		<fontPath>${font}</fontPath>
+	</text>
+	<datetime name="date">
+		<visible>false</visible>
+		<fontPath>${font}</fontPath>
+	</datetime>
+	<text name="developer">
+		<visible>false</visible>
+		<fontPath>${font}</fontPath>
+	</text>
+	</view>
+	</variant>
+	
+	<view name="gamelist, system">
+	<image name="line1, line2">
+		<path>${lineimage}</path>
+	</image>
+	<helpsystem name="help">
+		<textColor>${selectedText}</textColor>
+		<iconColor>${textldColor}</iconColor>
+		<fontPath>${font}</fontPath>
+		<backgroundColor>${selectorColor}</backgroundColor>
+		<backgroundHorizontalPadding>0.005 0.005</backgroundHorizontalPadding>
+		<backgroundVerticalPadding>0.005 0.005</backgroundVerticalPadding>
+		<backgroundCornerRadius>0.01</backgroundCornerRadius>
+	</helpsystem>
+	<image name="background">
+		<path>${background}</path>
+		<zIndex>1</zIndex>
+	</image>
+	<clock name="clock">
+		<format>%H:%M</format>
+		<color>${selectedText}</color>
+		<fontPath>${font}</fontPath>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<entries>all</entries>
+		<color>${selectedText}</color>
+		<fontPath>${font}</fontPath>	
+		<customIcon icon="icon_wifi">${wifi}</customIcon>	
+		<customIcon icon="icon_battery_charging">${batterycharge}</customIcon>
+		<customIcon icon="icon_battery_low">${batterylow}</customIcon>
+		<customIcon icon="icon_battery_medium">${batterymedium}</customIcon>
+		<customIcon icon="icon_battery_high">${batteryhigh}</customIcon>
+		<customIcon icon="icon_battery_full">${batteryfull}</customIcon>
+		<customIcon icon="icon_cellular">${cell}</customIcon>
+		<customIcon icon="icon_bluetooth">${bluetooth}</customIcon>
+	</systemstatus>
+	</view>
+	
+</theme>

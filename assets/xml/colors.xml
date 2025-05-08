@@ -1,0 +1,199 @@
+<theme>
+	<colorScheme name="white">
+	<variables>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
+		<textsdColor>FFFFFF</textsdColor>
+		<selectorColor>474747</selectorColor>
+		<selectedText>FFFFFF</selectedText>
+		<color1>303030</color1>
+		<color2>505050</color2>
+		<color3>707070</color3>
+		<color4>909090</color4>
+		<color5>A0A0A0</color5>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="cloudgrey">
+	<variables>
+		<textColor>D9D9D9</textColor>
+		<textldColor>AAAAAA</textldColor>
+		<textsdColor>D9D9D9</textsdColor>
+		<selectorColor>EEEEEE</selectorColor>
+		<selectedText>222222</selectedText>
+		<color1>303030</color1>
+		<color2>505050</color2>
+		<color3>707070</color3>
+		<color4>909090</color4>
+		<color5>A0A0A0</color5>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="washedlemon">
+	<variables>
+		<textColor>FFFACD</textColor>
+		<textldColor>DACF8A</textldColor>
+		<textsdColor>FFFACD</textsdColor>
+		<selectorColor>FFFCEB</selectorColor>
+		<selectedText>332F1F</selectedText>
+		<color1>564800</color1>
+		<color2>786600</color2>
+		<color3>998800</color3>
+		<color4>BBB800</color4>
+		<color5>DDDD00</color5>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="paleamber">
+	<variables>
+		<textColor>FFE9A9</textColor>
+		<textldColor>C9B370</textldColor>
+		<textsdColor>FFE9A9</textsdColor>
+		<selectorColor>FFF6D3</selectorColor>
+		<selectedText>332A1A</selectedText>
+		<color1>564800</color1>
+		<color2>786600</color2>
+		<color3>998800</color3>
+		<color4>BBB800</color4>
+		<color5>DDDD00</color5>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="mint">
+	<variables>
+		<textColor>98FFAC</textColor>
+		<textldColor>5CBF76</textldColor>
+		<textsdColor>98FFAC</textsdColor>
+		<selectorColor>A0FFA0</selectorColor>
+		<selectedText>003319</selectedText>
+		<color1>144400</color1>
+		<color2>2C6600</color2>
+		<color3>449900</color3>
+		<color4>66BB00</color4>
+		<color5>88DD00</color5>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="sagegreen">
+	<variables>
+		<textColor>C8D6C1</textColor>
+		<textldColor>9AA89F</textldColor>
+		<textsdColor>C8D6C1</textsdColor>
+		<selectorColor>DDEBDD</selectorColor>
+		<selectedText>1F2A1F</selectedText>
+		<color1>144400</color1>
+		<color2>2C6600</color2>
+		<color3>449900</color3>
+		<color4>66BB00</color4>
+		<color5>88DD00</color5>
+	</variables>
+	</colorScheme>
+
+
+	<colorScheme name="babyblue">
+	<variables>
+		<textColor>8FD9FB</textColor>
+		<textldColor>4B8CAD</textldColor>
+		<textsdColor>8FD9FB</textsdColor>
+		<selectorColor>ADD8FF</selectorColor>
+		<selectedText>002233</selectedText>
+		<color1>003A63</color1>
+		<color2>00507F</color2>
+		<color3>0066A0</color3>
+		<color4>1A7FC0</color4>
+		<color5>33A3E0</color5>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="dustyblue">
+	<variables>
+		<textColor>A7C6ED</textColor>
+		<textldColor>7A9CB8</textldColor>
+		<textsdColor>A7C6ED</textsdColor>
+		<selectorColor>D0E3FA</selectorColor>
+		<selectedText>102030</selectedText>
+		<color1>003A63</color1>
+		<color2>00507F</color2>
+		<color3>0066A0</color3>
+		<color4>1A7FC0</color4>
+		<color5>33A3E0</color5>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="orange">
+	<variables>
+		<textColor>FFA500</textColor>
+		<textldColor>B27100</textldColor>
+		<textsdColor>FFA500</textsdColor>
+		<selectorColor>FFDD88</selectorColor>
+		<selectedText>332100</selectedText>
+		<color1>63360E</color1>
+		<color2>804410</color2>
+		<color3>9C5514</color3>
+		<color4>BB6A18</color4>
+		<color5>D9801C</color5>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="cardinalred">
+	<variables>
+		<textColor>BD2031</textColor>
+		<textldColor>9C3542</textldColor>
+		<textsdColor>BD2031</textsdColor>
+		<selectorColor>FF6677</selectorColor>
+		<selectedText>330005</selectedText>
+		<color1>3F0000</color1>
+		<color2>5F0000</color2>
+		<color3>7F0000</color3>
+		<color4>9F0000</color4>
+		<color5>BF0000</color5>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="rosymist">
+	<variables>
+		<textColor>F4C2C2</textColor>
+		<textldColor>C28F8F</textldColor>
+		<textsdColor>F4C2C2</textsdColor>
+		<selectorColor>FDE5E5</selectorColor>
+		<selectedText>301F1F</selectedText>
+		<color1>3F0000</color1>
+		<color2>5F0000</color2>
+		<color3>7F0000</color3>
+		<color4>9F0000</color4>
+		<color5>BF0000</color5>
+	</variables>
+	</colorScheme>
+
+
+	<colorScheme name="fuchsiapink">
+	<variables>
+		<textColor>FF77FF</textColor>
+		<textldColor>B26AB2</textldColor>
+		<textsdColor>FF77FF</textsdColor>
+		<selectorColor>FFA0FF</selectorColor>
+		<selectedText>330033</selectedText>
+		<color1>390056</color1>
+		<color2>520077</color2>
+		<color3>6B00A0</color3>
+		<color4>8D33C0</color4>
+		<color5>AF66E0</color5>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="purple">
+	<variables>
+		<textColor>BB86FC</textColor>
+		<textldColor>8A63C8</textldColor>
+		<textsdColor>BB86FC</textsdColor>
+		<selectorColor>D0A8FF</selectorColor>
+		<selectedText>1A001F</selectedText>
+		<color1>390056</color1>
+		<color2>520077</color2>
+		<color3>6B00A0</color3>
+		<color4>8D33C0</color4>
+		<color5>AF66E0</color5>
+	</variables>
+	</colorScheme>
+</theme>
+

@@ -1,0 +1,90 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Sony</text>
+</text>
+<text name="sys_line2">
+<text>PlayStation Portable</text>
+</text>
+<text name="shortdescription">
+<text>2004  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<view name="system, gamelist">
+<text name="sys_line3">
+<text>Sony PlayStation Portable</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>La PlayStation Portable (PSP) es una consola portátil desarrollada y comercializada por Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>La PlayStation Portable (PSP) est une console de jeu portable développée et commercialisée par Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>La PlayStation Portable (PSP) è una console portatile sviluppata e commercializzata da Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>PlayStation Portable (PSP) to przenośna konsola do gier opracowana i sprzedawana przez Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>O PlayStation Portable (PSP) é um console de jogos portátil desenvolvido e comercializado pela Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>PlayStation Portable (PSP) este o consolă portabilă de jocuri dezvoltată și comercializată de Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>PlayStation Portable (PSP) - это портативная игровая консоль, разработанная и продаваемая компанией Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>PlayStation Portable (PSP) är en handhållen spelkonsol som utvecklats och marknadsförs av Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>プレイステーション・ポータブル（PSP）は、ソニー・コンピュータエンタテインメントが開発・販売する携帯型ゲーム機である</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>PlayStation Portable（PSP）是索尼电脑娱乐公司开发和销售的掌上游戏机</longdescription>
+</variables>
+</language>
+<colorScheme name="systemcolor">
+<variables>
+<color1>003A63</color1>
+<color2>00507F</color2>
+<color3>0066A0</color3>
+<color4>1A7FC0</color4>
+<color5>33A3E0</color5>
+<textColor>3498db</textColor>
+<textsdColor>3498db</textsdColor>
+<selectorColor>2c80b4</selectorColor>
+<selectedText>d6ecfa</selectedText>
+<textldColor>d6ecfa</textldColor>
+</variables>
+</colorScheme>
+</theme>
