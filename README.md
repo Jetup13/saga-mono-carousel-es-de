@@ -5,7 +5,7 @@ Features|
 6x Screen sizes supported
 
 Progress|
---------
+--------|
 Mostly complete
 
 Credits|Info
