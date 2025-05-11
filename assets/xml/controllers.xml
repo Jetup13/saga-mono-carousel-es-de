@@ -1,0 +1,91 @@
+<theme>
+	<aspectRatio name="16:9">
+	<view name="system">
+	<image name="controllers">
+		<opacity>.85</opacity>
+		<pos>0.5 0.485</pos>
+		<origin>0.5 0.5</origin>
+		<gradientType>vertical</gradientType>
+		<colorEnd>00000000</colorEnd>
+		<stationary>always</stationary>
+		<maxSize>.5 .85</maxSize>
+		<zIndex>1</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="16:10">
+	<view name="system">
+	<image name="controllers">
+		<opacity>.85</opacity>
+		<pos>0.5 0.485</pos>
+		<origin>0.5 0.5</origin>
+		<gradientType>vertical</gradientType>
+		<colorEnd>00000000</colorEnd>
+		<stationary>always</stationary>
+		<maxSize>.5 .85</maxSize>
+		<zIndex>1</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="system">
+	<image name="controllers">
+		<opacity>.85</opacity>
+		<pos>0.5 0.485</pos>
+		<origin>0.5 0.5</origin>
+		<gradientType>vertical</gradientType>
+		<colorEnd>00000000</colorEnd>
+		<stationary>always</stationary>
+		<maxSize>.5 .85</maxSize>
+		<zIndex>1</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="21:9">
+	<view name="system">
+	<image name="controllers">
+		<opacity>.85</opacity>
+		<pos>0.5 0.485</pos>
+		<origin>0.5 0.5</origin>
+		<gradientType>vertical</gradientType>
+		<colorEnd>00000000</colorEnd>
+		<stationary>always</stationary>
+		<maxSize>.5 .85</maxSize>
+		<zIndex>1</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="1:1">
+	<view name="system">
+	<image name="controllers">
+		<opacity>.85</opacity>
+		<pos>0.5 0.485</pos>
+		<origin>0.5 0.5</origin>
+		<gradientType>vertical</gradientType>
+		<colorEnd>00000000</colorEnd>
+		<stationary>always</stationary>
+		<maxSize>.7 .85</maxSize>
+		<zIndex>1</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="4:3">
+	<view name="system">
+	<image name="controllers">
+		<opacity>.85</opacity>
+		<pos>0.5 0.485</pos>
+		<origin>0.5 0.5</origin>
+		<gradientType>vertical</gradientType>
+		<colorEnd>00000000</colorEnd>
+		<stationary>always</stationary>
+		<maxSize>.6 .85</maxSize>
+		<zIndex>1</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+</theme>

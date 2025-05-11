@@ -1,0 +1,117 @@
+<theme>
+	<variant name="PerSystemCarouselSizing">
+	<aspectRatio name="16:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<maxItemCount>4.15</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.022 0.022</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>4</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<verticalOffset>.35</verticalOffset>
+		<itemScale>1.2</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="16:10">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<maxItemCount>3.75</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.025 0.025</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>4</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<verticalOffset>.35</verticalOffset>
+		<itemScale>1.2</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="19.5:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<maxItemCount>4.95</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.0225 0.0225</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>4</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<verticalOffset>.35</verticalOffset>
+		<itemScale>1.2</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="21:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<maxItemCount>5.3</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.0175 0.0175</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>4</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<verticalOffset>.35</verticalOffset>
+		<itemScale>1.2</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="1:1">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<maxItemCount>2.25</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.01 0.01</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>4</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<verticalOffset>.35</verticalOffset>
+		<itemScale>1.2</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="4:3">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<maxItemCount>2.90</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<reflections>true</reflections>
+		<reflectionsFalloff>3.75</reflectionsFalloff>
+		<reflectionsOpacity>.25</reflectionsOpacity>
+		<verticalOffset>.35</verticalOffset>
+		<itemScale>1.2</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+	</variant>
+</theme>

@@ -1,7 +1,0 @@
-<theme>
-	<variant name="backgroundscreenshot">
-	<variables>
-		<background>./assets/images/generic.png</background>
-	</variables>
-	</variant>
-</theme>

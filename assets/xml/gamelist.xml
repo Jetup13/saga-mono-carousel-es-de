@@ -1,7 +1,0 @@
-<theme>
-	<variant name="controllersmallgamelist, controllerlargegamelist, smallgamelist, largegamelist, controllerlargegamelistnolines, controllersmallgamelistnolines">
-	<variables>
-		<background>./assets/images/generic.png</background>
-	</variables>
-	</variant>
-</theme>

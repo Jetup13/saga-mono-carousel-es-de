@@ -1,7 +1,7 @@
 Features|
 --------|
 14x Color Schemes
-8x Variants
+2x Variants
 6x Screen sizes supported
 
 Progress|

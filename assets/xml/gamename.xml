@@ -1,0 +1,97 @@
+<theme>
+	<aspectRatio name="16:9">
+	<view name="gamelist">
+	<text name="gamename">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="16:10">
+	<view name="gamelist">
+	<text name="gamename">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="gamelist">
+	<text name="gamename">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="21:9">
+	<view name="gamelist">
+	<text name="gamename">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="1:1">
+	<view name="gamelist">
+	<text name="gamename">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.03</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="4:3">
+	<view name="gamelist">
+	<text name="gamename">
+		<metadata>name</metadata>
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+</theme>

@@ -1,0 +1,4 @@
+gamecom
+n3ds
+nds
+virtualboy

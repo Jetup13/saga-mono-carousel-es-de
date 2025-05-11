@@ -1,0 +1,127 @@
+<theme>
+	<aspectRatio name="16:9">
+	<view name="gamelist, system">
+	<helpsystem name="help">
+		<pos>0.5 .96</pos>
+		<origin>0.5 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</helpsystem>
+	<clock name="clock">
+		<pos>0.02 .96</pos>
+		<origin>0 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<pos>0.98 .96</pos>
+		<origin>1 0.5</origin>
+		<height>0.035</height>
+	</systemstatus>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="16:10">
+	<view name="gamelist, system">
+	<helpsystem name="help">
+		<pos>0.5 .96</pos>
+		<origin>0.5 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</helpsystem>
+	<clock name="clock">
+		<pos>0.02 .96</pos>
+		<origin>0 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<pos>0.98 .96</pos>
+		<origin>1 0.5</origin>
+		<height>0.035</height>
+	</systemstatus>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="gamelist, system">
+	<helpsystem name="help">
+		<pos>0.5 .96</pos>
+		<origin>0.5 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</helpsystem>
+	<clock name="clock">
+		<pos>0.02 .96</pos>
+		<origin>0 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<pos>0.98 .96</pos>
+		<origin>1 0.5</origin>
+		<height>0.035</height>
+	</systemstatus>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="21:9">
+	<view name="gamelist, system">
+	<helpsystem name="help">
+		<pos>0.5 .96</pos>
+		<origin>0.5 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</helpsystem>
+	<clock name="clock">
+		<pos>0.02 .96</pos>
+		<origin>0 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<pos>0.98 .96</pos>
+		<origin>1 0.5</origin>
+		<height>0.035</height>
+	</systemstatus>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="1:1">
+	<view name="gamelist, system">
+	<helpsystem name="help">
+		<pos>0.5 .96</pos>
+		<origin>0.5 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</helpsystem>
+	<clock name="clock">
+		<pos>0.02 .96</pos>
+		<origin>0 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<pos>0.98 .96</pos>
+		<origin>1 0.5</origin>
+		<height>0.035</height>
+	</systemstatus>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="4:3">
+	<view name="gamelist, system">
+	<helpsystem name="help">
+		<pos>0.5 .96</pos>
+		<origin>0.5 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</helpsystem>
+	<clock name="clock">
+		<pos>0.02 .96</pos>
+		<origin>0 0.5</origin>
+		<fontSize>0.035</fontSize>
+	</clock>
+	
+	<systemstatus name="systemStatus">
+		<pos>0.98 .96</pos>
+		<origin>1 0.5</origin>
+		<height>0.035</height>
+	</systemstatus>
+	</view>
+	</aspectRatio>
+</theme>

@@ -20,43 +20,13 @@
 	<language>ja_JP</language>
 	<language>zh_CN</language>
 	
-	<variant name="controllerlargegamelist">
-		<label>Controllers Large Gamelist</label>
+	<variant name="Generic">
+		<label>Generic Carousel Sizing</label>
 		<selectable>true</selectable>
 	</variant>
 	
-	<variant name="controllersmallgamelist">
-		<label>Controllers Small Gamelist</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="largegamelist">
-		<label>Large Gamelist w/o Controllers</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="smallgamelist">
-		<label>Small Gamelist w/o Controllers</label>
-		<selectable>true</selectable>
-	</variant>
-	
-	<variant name="controllerlargegamelistnolines">
-		<label>Controllers Lg Gmlst w/o Lines</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="controllersmallgamelistnolines">
-		<label>Controllers Sm Gmlst w/o Lines</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="largegamelistnolinesorcontrollers">
-		<label>Lg Gmlst w/o Lines or Ctrls</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="smallgamelistnolinesorcontrollers">
-		<label>Sm Gmlst w/o Lines or Ctrls</label>
+	<variant name="PerSystemCarouselSizing">
+		<label>Per-System Carousel Sizing</label>
 		<selectable>true</selectable>
 	</variant>
 	
