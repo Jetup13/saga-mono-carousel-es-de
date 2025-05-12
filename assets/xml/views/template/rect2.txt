@@ -1,5 +1,6 @@
 ngage
 satellaview
 snes
+snesh
 snesna
 stv

@@ -49,6 +49,7 @@ fpinball
 gamegear
 gc
 genesis
+genh
 gx4000
 intellivision
 kodi
@@ -57,6 +58,7 @@ mame
 mame-advmame
 mark3
 mastersystem
+megah
 megadrive
 megadrivejp
 megaduck
@@ -75,6 +77,7 @@ naomi2
 naomigd
 neogeo
 nes
+nesh
 odyssey2
 oric
 pc

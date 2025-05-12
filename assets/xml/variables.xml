@@ -4,6 +4,7 @@
 		<background>./assets/images/generic.png</background>
 		<font>./assets/font/notosansbold.ttf</font>
 		<logos>./assets/logos/${system.theme}.svg</logos>
+		<logos2>./assets/logos/${system.theme}.png</logos2>
 		<controllers>./assets/controllers/${system.theme}.svg</controllers>
 		<lineimage>./assets/images/line.png</lineimage>
 		<gradientimage>./assets/images/gradient.svg</gradientimage>

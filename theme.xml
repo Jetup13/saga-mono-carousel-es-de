@@ -14,6 +14,7 @@
 	<view name="system">
 	<carousel name="system">
 		<staticImage>${logos}</staticImage>
+		<defaultImage>${logos2}</defaultImage>
 		<type>horizontal</type>
 		<color>00000000</color>
 		<zIndex>2</zIndex>
