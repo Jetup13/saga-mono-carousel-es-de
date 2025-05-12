@@ -3,6 +3,8 @@
 	<include>./assets/xml/gamename.xml</include>
 	<include>./assets/xml/generic.xml</include>
 	<include>./assets/xml/helptime.xml</include>
+	<include>./assets/xml/line.xml</include>
+	<include>./assets/xml/systemshortdescription.xml</include>
 	<include>./assets/xml/variables.xml</include>
 	<include>./assets/xml/colors.xml</include>
 	<include>./systems/${system.theme}.xml</include>
@@ -41,7 +43,8 @@
 		<visible>false</visible>
 	</text>
 	<text name="shortdescription">
-		<visible>false</visible>
+		<fontPath>${font}</fontPath>
+		<color>${textColor}</color>
 	</text>
 	</view>
 	
@@ -71,6 +74,11 @@
 	</view>
 	
 	<view name="gamelist, system">
+	<image name="line1, line2">
+		<path>${lineimage}</path>
+		<zIndex>2</zIndex>
+	</image>
+	
 	<image name="background">
 		<path>${background}</path>
 		<zIndex>1</zIndex>

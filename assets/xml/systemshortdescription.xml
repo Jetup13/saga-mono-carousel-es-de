@@ -1,0 +1,85 @@
+<theme>
+	<aspectRatio name="16:9">
+	<view name="system">
+	<text name="shortdescription">
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="16:10">
+	<view name="system">
+	<text name="shortdescription">
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="system">
+	<text name="shortdescription">
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="21:9">
+	<view name="system">
+	<text name="shortdescription">
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="1:1">
+	<view name="system">
+	<text name="shortdescription">
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.03</fontSize>
+		<zIndex>15</zIndex>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="4:3">
+	<view name="system">
+	<text name="shortdescription">
+		<pos>0.5 0.033</pos>
+		<origin>0.5 0.5</origin>
+		<size>0 0</size>
+		<visible>true</visible>
+		<fontSize>0.04</fontSize>
+		<zIndex>15</zIndex>
+		<letterCase>uppercase</letterCase>
+	</text>
+	</view>
+	</aspectRatio>
+</theme>

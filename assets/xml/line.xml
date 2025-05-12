@@ -1,0 +1,133 @@
+<theme>
+	<aspectRatio name="16:9">
+	<view name="gamelist, system">
+	<image name="line1">
+		<pos>0.1 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>0 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>00000000</color>
+		<colorEnd>FFFFFFFF</colorEnd>
+	</image>
+	
+	<image name="line2">
+		<pos>0.9 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>1 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>FFFFFFFF</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="16:10">
+	<view name="gamelist, system">
+	<image name="line1">
+		<pos>0.1 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>0 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>00000000</color>
+		<colorEnd>FFFFFFFF</colorEnd>
+	</image>
+	
+	<image name="line2">
+		<pos>0.9 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>1 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>FFFFFFFF</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="gamelist, system">
+	<image name="line1">
+		<pos>0.1 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>0 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>00000000</color>
+		<colorEnd>FFFFFFFF</colorEnd>
+	</image>
+	
+	<image name="line2">
+		<pos>0.9 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>1 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>FFFFFFFF</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="21:9">
+	<view name="gamelist, system">
+	<image name="line1">
+		<pos>0.1 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>0 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>00000000</color>
+		<colorEnd>FFFFFFFF</colorEnd>
+	</image>
+	
+	<image name="line2">
+		<pos>0.9 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>1 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>FFFFFFFF</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="1:1">
+	<view name="gamelist, system">
+	<image name="line1">
+		<pos>0.1 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>0 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>00000000</color>
+		<colorEnd>FFFFFFFF</colorEnd>
+	</image>
+	
+	<image name="line2">
+		<pos>0.9 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>1 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>FFFFFFFF</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="4:3">
+	<view name="gamelist, system">
+	<image name="line1">
+		<pos>0.1 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>0 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>00000000</color>
+		<colorEnd>FFFFFFFF</colorEnd>
+	</image>
+	
+	<image name="line2">
+		<pos>0.9 0.06</pos>
+		<size>0.4 0.002</size>
+		<origin>1 0</origin>
+		<gradientType>horizontal</gradientType>
+		<color>FFFFFFFF</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	</view>
+	</aspectRatio>
+</theme>
