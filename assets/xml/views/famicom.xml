@@ -6,19 +6,19 @@
 		<size>1 1</size>
 		<pos>0 0</pos>
 		<origin>0 0</origin>
-		<maxItemCount>3</maxItemCount>
-		<itemSize>0.325 0.4</itemSize>
+		<maxItemCount>3.5</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
 		<selectedItemOffset>0 0</selectedItemOffset>
-		<selectedItemMargins>0.03 0.03</selectedItemMargins>
+		<selectedItemMargins>0.0275 0.0275</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.35</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
-
+	
 	<aspectRatio name="16:10">
 	<view name="gamelist">
 	<carousel name="gamelist">	
@@ -26,13 +26,13 @@
 		<pos>0 0</pos>
 		<origin>0 0</origin>
 		<maxItemCount>3</maxItemCount>
-		<itemSize>0.325 0.4</itemSize>
+		<itemSize>0.4 0.7</itemSize>
 		<selectedItemOffset>0 0</selectedItemOffset>
-		<selectedItemMargins>0.03 0.03</selectedItemMargins>
+		<selectedItemMargins>0.025 0.025</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.35</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
@@ -44,52 +44,52 @@
 		<size>1 1</size>
 		<pos>0 0</pos>
 		<origin>0 0</origin>
-		<maxItemCount>3.10</maxItemCount>
-		<itemSize>0.325 0.4</itemSize>
+		<maxItemCount>4</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
 		<selectedItemOffset>0 0</selectedItemOffset>
-		<selectedItemMargins>0.025 0.025</selectedItemMargins>
+		<selectedItemMargins>0.02 0.02</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.35</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
-	
+
 	<aspectRatio name="21:9">
 	<view name="gamelist">
 	<carousel name="gamelist">	
 		<size>1 1</size>
 		<pos>0 0</pos>
 		<origin>0 0</origin>
-		<maxItemCount>3.5</maxItemCount>
-		<itemSize>0.325 0.4</itemSize>
+		<maxItemCount>4.5</maxItemCount>
+		<itemSize>0.4 0.7</itemSize>
 		<selectedItemOffset>0 0</selectedItemOffset>
-		<selectedItemMargins>0.03 0.03</selectedItemMargins>
+		<selectedItemMargins>0.02 0.02</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.35</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
-
+	
 	<aspectRatio name="1:1">
 	<view name="gamelist">
 	<carousel name="gamelist">	
 		<size>1 1</size>
 		<pos>0 0</pos>
 		<origin>0 0</origin>
-		<maxItemCount>1.75</maxItemCount>
-		<itemSize>0.55 0.4</itemSize>
+		<maxItemCount>2.25</maxItemCount>
+		<itemSize>0.425 0.7</itemSize>
 		<selectedItemOffset>0 0</selectedItemOffset>
-		<selectedItemMargins>0.05 0.05</selectedItemMargins>
+		<selectedItemMargins>0.0325 0.0325</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.35</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
@@ -101,14 +101,14 @@
 		<size>1 1</size>
 		<pos>0 0</pos>
 		<origin>0 0</origin>
-		<maxItemCount>1.95</maxItemCount>
-		<itemSize>0.55 0.4</itemSize>
+		<maxItemCount>2.5</maxItemCount>
+		<itemSize>0.425 0.7</itemSize>
 		<selectedItemOffset>0 0</selectedItemOffset>
-		<selectedItemMargins>0.04 0.04</selectedItemMargins>
+		<selectedItemMargins>0.02 0.02</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.35</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>

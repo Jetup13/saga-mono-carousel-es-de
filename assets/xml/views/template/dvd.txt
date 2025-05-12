@@ -39,6 +39,7 @@ dos
 dragon32
 electron
 epic
+famicom
 fba
 fbneo
 flash

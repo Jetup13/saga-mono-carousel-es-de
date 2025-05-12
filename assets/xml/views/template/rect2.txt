@@ -1,4 +1,3 @@
-famicom
 ngage
 satellaview
 snes

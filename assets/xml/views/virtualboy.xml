@@ -13,7 +13,7 @@
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.25</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
@@ -32,7 +32,7 @@
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.25</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
@@ -51,7 +51,7 @@
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.25</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
@@ -70,7 +70,7 @@
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.25</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
@@ -89,7 +89,7 @@
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.28</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
@@ -108,7 +108,7 @@
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
-		<verticalOffset>.2</verticalOffset>
+		<verticalOffset>.28</verticalOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
