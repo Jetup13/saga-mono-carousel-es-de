@@ -18,6 +18,10 @@
 		<type>horizontal</type>
 		<color>00000000</color>
 		<zIndex>2</zIndex>
+		
+		<unfocusedItemOpacity>1</unfocusedItemOpacity>
+		<unfocusedItemDimming>0.25</unfocusedItemDimming>
+		<unfocusedItemSaturation>1</unfocusedItemSaturation>
 
 		<pos>.5 .5</pos>
 		<origin>.5 .5</origin>
@@ -26,7 +30,6 @@
 		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.25 0.25</selectedItemMargins>
 		<itemScale>1</itemScale>
-		
 	</carousel>
 	
 	<image name="controllers">
@@ -54,12 +57,13 @@
 	<carousel name="gamelist">
 		<defaultImage>${missing}</defaultImage>
 		<imageType>cover</imageType>
+		<type>horizontal</type>
+		<color>00000000</color>
+		<zIndex>2</zIndex>
+
 		<unfocusedItemOpacity>1</unfocusedItemOpacity>
 		<unfocusedItemDimming>0.25</unfocusedItemDimming>
 		<unfocusedItemSaturation>1</unfocusedItemSaturation>
-		<color>00000000</color>
-		<type>horizontal</type>
-		<zIndex>2</zIndex>
 	</carousel>
 	</view>
 	</variant>
@@ -86,6 +90,7 @@
 		<pos>0 0</pos>
 		<size>1 1</size>
 	</image>
+	
 	<helpsystem name="help">
 		<textColor>${textColor}</textColor>
 		<iconColor>${textldColor}</iconColor>
@@ -98,6 +103,7 @@
 			r,
 		</entries>
 	</helpsystem>
+	
 	<clock name="clock">
 		<format>%H:%M</format>
 		<color>${textColor}</color>
