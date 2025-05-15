@@ -1,0 +1,165 @@
+<theme>
+	<variant name="meta1, meta2, meta3, meta4">
+	<aspectRatio name="16:9">
+	<view name="gamelist">
+	<text name="description">
+		<metadata>description</metadata>
+		<pos>0.85 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.28 0.35</size>
+		<lineSpacing>1</lineSpacing>
+		<fontSize>0.035</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+	</text>
+	<image name="descriptionbox">
+		<pos>0.95 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.5 0.35</size>
+		<cornerRadius>.015</cornerRadius>
+		<zIndex>14</zIndex>
+	</image>
+	<text name="publisher">
+		<metadata>publisher</metadata>
+		<pos>0.85 0.25</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.28 0.35</size>
+		<lineSpacing>1</lineSpacing>
+		<fontSize>0.035</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+	</text>
+	<image name="publisherbox">
+		<pos>0.95 0.25</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.5 0.05</size>
+		<cornerRadius>.015</cornerRadius>
+		<zIndex>14</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="16:10">
+	<view name="gamelist">
+	<text name="description">
+		<metadata>description</metadata>
+		<pos>0.85 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.28 0.35</size>
+		<lineSpacing>1</lineSpacing>
+		<fontSize>0.035</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+	</text>
+	<image name="descriptionbox">
+		<pos>0.95 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.5 0.35</size>
+		<cornerRadius>.015</cornerRadius>
+		<zIndex>14</zIndex>
+	</image>
+	<text name="publisher">
+		<metadata>publisher</metadata>
+		<pos>0.85 0.25</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.28 0.35</size>
+		<lineSpacing>1</lineSpacing>
+		<fontSize>0.035</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+	</text>
+	<image name="publisherbox">
+		<pos>0.95 0.25</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.5 0.05</size>
+		<cornerRadius>.015</cornerRadius>
+		<zIndex>14</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="gamelist">
+	<text name="description">
+		<metadata>description</metadata>
+		<pos>0.85 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.28 0.35</size>
+		<lineSpacing>1</lineSpacing>
+		<fontSize>0.035</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+	</text>
+	<image name="descriptionbox">
+		<pos>0.95 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.5 0.35</size>
+		<cornerRadius>.015</cornerRadius>
+		<zIndex>14</zIndex>
+	</image>
+	<text name="publisher">
+		<metadata>publisher</metadata>
+		<pos>0.85 0.25</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.28 0.35</size>
+		<lineSpacing>1</lineSpacing>
+		<fontSize>0.035</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+	</text>
+	<image name="publisherbox">
+		<pos>0.95 0.25</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.5 0.05</size>
+		<cornerRadius>.015</cornerRadius>
+		<zIndex>14</zIndex>
+	</image>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="1:1">
+	<view name="gamelist">
+	<text name="description">
+		<visible>false</visible>
+	</text>
+	<image name="descriptionbox">
+		<visible>false</visible>
+	</image>
+	<text name="publisher">
+		<visible>false</visible>
+	</text>
+	<image name="publisherbox">
+		<visible>false</visible>
+	</image>
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="4:3">
+	<view name="gamelist">
+	<text name="description">
+		<metadata>description</metadata>
+		<pos>0.865 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.20 0.3</size>
+		<lineSpacing>1</lineSpacing>
+		<fontSize>0.03</fontSize>
+		<zIndex>15</zIndex>
+		<opacity>1</opacity>
+	</text>
+	<image name="descriptionbox">
+		<pos>1 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<size>0.5 0.30</size>
+		<cornerRadius>.015</cornerRadius>
+		<zIndex>14</zIndex>
+	</image>
+	<text name="publisher">
+		<visible>false</visible>
+	</text>
+	<image name="publisherbox">
+		<visible>false</visible>
+	</image>
+	</view>
+	</aspectRatio>
+	</variant>
+</theme>

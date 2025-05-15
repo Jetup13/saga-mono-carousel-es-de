@@ -1,6 +1,8 @@
 <theme>
 	<include>./assets/xml/controllers.xml</include>
+	<include>./assets/xml/gameinfo.xml</include>
 	<include>./assets/xml/gamename.xml</include>
+	<include>./assets/xml/gamevideo.xml</include>
 	<include>./assets/xml/generic.xml</include>
 	<include>./assets/xml/helptime.xml</include>
 	<include>./assets/xml/line.xml</include>
@@ -52,7 +54,7 @@
 	</text>
 	</view>
 	
-	<variant name="Generic, PerSystemCarouselSizing">
+	<variant name="Generic, PerSystemCarouselSizing, PerSystemCarouselSizingSmall, meta1, meta2, meta3, meta4">
 	<view name="gamelist">
 	<carousel name="gamelist">
 		<defaultImage>${missing}</defaultImage>
@@ -67,7 +69,7 @@
 	</carousel>
 	</view>
 	</variant>
-	
+
 	<view name="gamelist">
 	<text name="sys_line3">
 		<visible>false</visible>
@@ -85,10 +87,11 @@
 	</image>
 	
 	<image name="background">
-		<path>${background}</path>
+		<path>${lineimage}</path>
 		<zIndex>1</zIndex>
 		<pos>0 0</pos>
 		<size>1 1</size>
+		<color>121212</color>
 	</image>
 	
 	<helpsystem name="help">
@@ -124,4 +127,37 @@
 		<customIcon icon="icon_bluetooth">${bluetooth}</customIcon>
 	</systemstatus>
 	</view>
+
+	<variant name="meta1, meta2, meta3, meta4">
+	<view name="gamelist">
+	<text name="description">
+		<fontPath>${font}</fontPath>
+		<color>${selectedText}</color>
+	</text>
+	<image name="descriptionbox">
+		<path>${lineimage}</path>
+		<color>${selectorColor}99</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	<text name="publisher">
+		<fontPath>${font}</fontPath>
+		<color>${selectedText}</color>
+	</text>
+	<image name="publisherbox">
+		<path>${lineimage}</path>
+		<color>${selectorColor}99</color>
+		<colorEnd>00000000</colorEnd>
+	</image>
+	</view>
+	</variant>
+	
+	<variant name="meta1, meta2, meta3, meta4">
+	<view name="gamelist">
+	<image name="videobox">
+		<path>${lineimage}</path>
+		<color>00000000</color>
+		<colorEnd>${selectorColor}99</colorEnd>
+	</image>
+	</view>
+	</variant>
 </theme>

@@ -30,6 +30,31 @@
 		<selectable>true</selectable>
 	</variant>
 	
+	<variant name="PerSystemCarouselSizingSmall">
+		<label>Per-System Carousel Sizing Sm</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="meta1">
+		<label>Per System w/Metadata</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<variant name="meta2">
+		<label>Per System w/Metadata and Videos</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="meta3">
+		<label>Per System Sm w/Metadata</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<variant name="meta4">
+		<label>Per System Sm w/Metadata and Videos</label>
+		<selectable>true</selectable>
+	</variant>
+	
 	<colorScheme name="white">
 		<label>White</label>
 	</colorScheme>
