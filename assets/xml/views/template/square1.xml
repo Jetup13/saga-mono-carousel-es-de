@@ -8,13 +8,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>3.45</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.03 0.03</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -27,13 +25,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>3</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.02 0.02</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -46,13 +42,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>4</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.02 0.02</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -65,13 +59,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>4.5</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.025 0.025</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -84,13 +76,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>1.5</maxItemCount>
 		<itemSize>0.6 0.6</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.01 0.01</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.28</verticalOffset>
-		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -103,13 +93,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>2</maxItemCount>
 		<itemSize>0.6 0.6</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.0175 0.0175</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.28</verticalOffset>
-		<itemScale>1.2</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -124,13 +112,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>3.45</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0 0</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -143,13 +129,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>3</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0 0</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -162,13 +146,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>4</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0 0</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -181,13 +163,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>4.5</maxItemCount>
 		<itemSize>0.4 0.5</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0 0</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.25</verticalOffset>
-		<itemScale>1</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -200,13 +180,11 @@
 		<origin>0 0</origin>
 		<maxItemCount>1.5</maxItemCount>
 		<itemSize>0.6 0.6</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0 0</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.28</verticalOffset>
-		<itemScale>1</itemScale>
 	</carousel>
 	</view>
 	</aspectRatio>
@@ -219,12 +197,43 @@
 		<origin>0 0</origin>
 		<maxItemCount>2</maxItemCount>
 		<itemSize>0.6 0.6</itemSize>
-		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0 0</selectedItemMargins>
 		<reflections>true</reflections>
 		<reflectionsFalloff>4</reflectionsFalloff>
 		<reflectionsOpacity>.25</reflectionsOpacity>
 		<verticalOffset>.28</verticalOffset>
+	</carousel>
+	</view>
+	</aspectRatio>
+	</variant>
+
+	<variant name="meta2, meta4">
+	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<selectedItemOffset>-0.1 0.05</selectedItemOffset>
+		<itemScale>.3</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+	</variant>
+	
+	<variant name="PerSystemCarouselSizing, meta1">
+	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<selectedItemOffset>0 0</selectedItemOffset>
+		<itemScale>1.2</itemScale>
+	</carousel>
+	</view>
+	</aspectRatio>
+	</variant>
+
+	<variant name="PerSystemCarouselSizingSmall, meta3">
+	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<selectedItemOffset>0 0</selectedItemOffset>
 		<itemScale>1</itemScale>
 	</carousel>
 	</view>

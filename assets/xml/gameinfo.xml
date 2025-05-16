@@ -8,7 +8,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>
@@ -25,7 +25,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>
@@ -47,7 +47,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>
@@ -64,7 +64,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>
@@ -86,7 +86,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>
@@ -103,7 +103,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>
@@ -125,7 +125,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>
@@ -142,7 +142,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0.28 0.35</size>
 		<lineSpacing>1</lineSpacing>
-		<fontSize>0.035</fontSize>
+		<fontSize>0.03</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 	</text>

@@ -26,32 +26,32 @@
 	</variant>
 	
 	<variant name="PerSystemCarouselSizing">
-		<label>Per-System Carousel Sizing</label>
+		<label>Per-System Carousel Lg</label>
 		<selectable>true</selectable>
 	</variant>
 	
 	<variant name="PerSystemCarouselSizingSmall">
-		<label>Per-System Carousel Sizing Sm</label>
+		<label>Per-System Carousel Sm</label>
 		<selectable>true</selectable>
 	</variant>
 
 	<variant name="meta1">
-		<label>Per System w/Metadata</label>
+		<label>Per System Lg w/Meta</label>
 		<selectable>true</selectable>
 	</variant>
 	
 	<variant name="meta2">
-		<label>Per System w/Metadata and Videos</label>
+		<label>Per System Lg w/Meta &amp; Videos</label>
 		<selectable>true</selectable>
 	</variant>
 
 	<variant name="meta3">
-		<label>Per System Sm w/Metadata</label>
+		<label>Per System Sm w/Meta</label>
 		<selectable>true</selectable>
 	</variant>
 	
 	<variant name="meta4">
-		<label>Per System Sm w/Metadata and Videos</label>
+		<label>Per System Sm w/Meta &amp; Videos</label>
 		<selectable>true</selectable>
 	</variant>
 	
