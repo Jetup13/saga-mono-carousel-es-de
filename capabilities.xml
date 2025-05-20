@@ -35,23 +35,18 @@
 		<selectable>true</selectable>
 	</variant>
 
-	<variant name="meta1">
-		<label>Per System Lg w/Meta</label>
+	<variant name="VideoLg">
+		<label>Video View (Over)</label>
 		<selectable>true</selectable>
 	</variant>
 	
-	<variant name="meta2">
-		<label>Per System Lg w/Meta &amp; Videos</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="meta3">
-		<label>Per System Sm w/Meta</label>
+	<variant name="VideoSm">
+		<label>Video View Sm Box</label>
 		<selectable>true</selectable>
 	</variant>
 	
-	<variant name="meta4">
-		<label>Per System Sm w/Meta &amp; Videos</label>
+	<variant name="Meta">
+		<label>Metadata View Box</label>
 		<selectable>true</selectable>
 	</variant>
 	

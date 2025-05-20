@@ -1,11 +1,8 @@
 <theme>
-	<variant name="PerSystemCarouselSizing, meta1, meta2">
+	<variant name="PerSystemCarouselSizing">
 	<aspectRatio name="16:9">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0.03 0.03</selectedItemMargins>
@@ -19,10 +16,7 @@
 
 	<aspectRatio name="16:10">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0.03 0.03</selectedItemMargins>
@@ -36,10 +30,7 @@
 
 	<aspectRatio name="19.5:9">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3.10</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0.025 0.025</selectedItemMargins>
@@ -53,10 +44,7 @@
 	
 	<aspectRatio name="21:9">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3.5</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0.03 0.03</selectedItemMargins>
@@ -70,10 +58,7 @@
 
 	<aspectRatio name="1:1">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>1.75</maxItemCount>
 		<itemSize>0.55 0.4</itemSize>
 		<selectedItemMargins>0.05 0.05</selectedItemMargins>
@@ -87,10 +72,7 @@
 	
 	<aspectRatio name="4:3">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>1.95</maxItemCount>
 		<itemSize>0.55 0.4</itemSize>
 		<selectedItemMargins>0.04 0.04</selectedItemMargins>
@@ -103,13 +85,10 @@
 	</aspectRatio>
 	</variant>
 	
-	<variant name="PerSystemCarouselSizingSmall, meta3, meta4">
+	<variant name="PerSystemCarouselSizingSmall, VideoLg">
 	<aspectRatio name="16:9">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0 0</selectedItemMargins>
@@ -123,10 +102,7 @@
 
 	<aspectRatio name="16:10">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0 0</selectedItemMargins>
@@ -140,10 +116,7 @@
 
 	<aspectRatio name="19.5:9">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3.10</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0 0</selectedItemMargins>
@@ -157,10 +130,7 @@
 	
 	<aspectRatio name="21:9">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>3.5</maxItemCount>
 		<itemSize>0.325 0.4</itemSize>
 		<selectedItemMargins>0 0</selectedItemMargins>
@@ -174,10 +144,7 @@
 
 	<aspectRatio name="1:1">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>1.75</maxItemCount>
 		<itemSize>0.55 0.4</itemSize>
 		<selectedItemMargins>0 0</selectedItemMargins>
@@ -191,10 +158,7 @@
 	
 	<aspectRatio name="4:3">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+	<carousel name="gamelist">
 		<maxItemCount>1.95</maxItemCount>
 		<itemSize>0.55 0.4</itemSize>
 		<selectedItemMargins>0 0</selectedItemMargins>
@@ -207,21 +171,13 @@
 	</aspectRatio>
 	</variant>
 
-	<variant name="meta2, meta4">
+	<variant name="PerSystemCarouselSizing">
 	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
 	<view name="gamelist">
-	<carousel name="gamelist">	
-		<selectedItemOffset>-0.1 0.05</selectedItemOffset>
-		<itemScale>.3</itemScale>
-	</carousel>
-	</view>
-	</aspectRatio>
-	</variant>
-	
-	<variant name="PerSystemCarouselSizing, meta1">
-	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
-	<view name="gamelist">
-	<carousel name="gamelist">	
+	<carousel name="gamelist">
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
 		<selectedItemOffset>0 0</selectedItemOffset>
 		<itemScale>1.2</itemScale>
 	</carousel>
@@ -229,13 +185,280 @@
 	</aspectRatio>
 	</variant>
 
-	<variant name="PerSystemCarouselSizingSmall, meta3">
+	<variant name="PerSystemCarouselSizingSmall, VideoLg">
 	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
 	<view name="gamelist">
-	<carousel name="gamelist">	
+	<carousel name="gamelist">
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
 		<selectedItemOffset>0 0</selectedItemOffset>
 		<itemScale>1</itemScale>
 	</carousel>
+	</view>
+	</aspectRatio>
+	</variant>
+
+<!-- Video View -->
+	
+	<variant name="VideoSm">
+	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
+	<view name="gamelist">
+	<video name="video">	
+		<fadeInType>transparent</fadeInType>
+	</video>
+	</view>
+	</aspectRatio>
+	</variant>
+
+	<variant name="VideoSm">
+	<aspectRatio name="16:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.25</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>
+	<video name="video">
+		<pos>0.7 0.68</pos>
+		<origin>0.5 0.5</origin>
+		<maxSize>.5 .5</maxSize>
+		<pillarboxes>false</pillarboxes>
+		<videoCornerRadius>0.005</videoCornerRadius>
+		<zIndex>1</zIndex>
+		<opacity>1</opacity>
+	</video>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="16:10">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.28</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>
+	<video name="video">
+		<pos>0.7 0.68</pos>
+		<origin>0.5 0.5</origin>
+		<maxSize>.5 .5</maxSize>
+		<pillarboxes>false</pillarboxes>
+		<videoCornerRadius>0.005</videoCornerRadius>
+		<zIndex>1</zIndex>
+		<opacity>1</opacity>
+	</video>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.22</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>
+	<video name="video">
+		<pos>0.7 0.68</pos>
+		<origin>0.5 0.5</origin>
+		<maxSize>.5 .5</maxSize>
+		<pillarboxes>false</pillarboxes>
+		<videoCornerRadius>0.005</videoCornerRadius>
+		<zIndex>1</zIndex>
+		<opacity>1</opacity>
+	</video>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="21:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.2</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>
+	<video name="video">
+		<pos>0.7 0.68</pos>
+		<origin>0.5 0.5</origin>
+		<maxSize>.5 .5</maxSize>
+		<pillarboxes>false</pillarboxes>
+		<videoCornerRadius>0.005</videoCornerRadius>
+		<zIndex>1</zIndex>
+		<opacity>1</opacity>
+	</video>	
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="1:1">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>5.75</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.45</selectedItemOffset>
+		<itemScale>2.25</itemScale>
+	</carousel>
+	<video name="video">
+		<pos>0.7 0.68</pos>
+		<origin>0.5 0.5</origin>
+		<maxSize>.5 .5</maxSize>
+		<pillarboxes>false</pillarboxes>
+		<videoCornerRadius>0.005</videoCornerRadius>
+		<zIndex>1</zIndex>
+		<opacity>1</opacity>
+	</video>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="4:3">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>5.75</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.325</selectedItemOffset>
+		<itemScale>2.25</itemScale>
+	</carousel>
+	<video name="video">
+		<pos>0.7 0.68</pos>
+		<origin>0.5 0.5</origin>
+		<maxSize>.5 .5</maxSize>
+		<pillarboxes>false</pillarboxes>
+		<videoCornerRadius>0.005</videoCornerRadius>
+		<zIndex>1</zIndex>
+		<opacity>1</opacity>
+	</video>	
+	</view>
+	</aspectRatio>
+	</variant>
+
+<!-- Meta View -->
+
+	<variant name="Meta">
+	<aspectRatio name="16:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.25</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="16:10">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.28</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="19.5:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.22</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="21:9">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>6</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.2</selectedItemOffset>
+		<itemScale>1.8</itemScale>
+	</carousel>	
+	</view>
+	</aspectRatio>
+	
+	<aspectRatio name="1:1">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>5.75</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.45</selectedItemOffset>
+		<itemScale>2.25</itemScale>
+	</carousel>	
+	</view>
+	</aspectRatio>
+
+	<aspectRatio name="4:3">
+	<view name="gamelist">
+	<carousel name="gamelist">	
+		<size>1 1.5</size>
+		<pos>0.5 0.225</pos>
+		<origin>0.5 0.5</origin>
+		<maxItemCount>5.75</maxItemCount>
+		<itemSize>0.16 0.3</itemSize>
+		<horizontalOffset>-0.25</horizontalOffset>
+		<selectedItemMargins>0.0 0.0</selectedItemMargins>
+		<selectedItemOffset>0 0.325</selectedItemOffset>
+		<itemScale>2.25</itemScale>
+	</carousel>	
 	</view>
 	</aspectRatio>
 	</variant>

@@ -1,40 +1,38 @@
 <theme>
-	<variant name="meta2, meta4">
+	<variant name="VideoLg">
 	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
 	<view name="gamelist">
 	<video name="video">	
-		<imageType>screenshot</imageType>
-		<delay>1</delay>
 		<fadeInType>transparent</fadeInType>
+		<imageType>none</imageType>
+		<delay>1.5</delay>
 	</video>
 	</view>
 	</aspectRatio>
 	</variant>
 
-	<variant name="meta2, meta4">
+	<variant name="VideoLg">
 	<aspectRatio name="16:9">
 	<view name="gamelist">
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>0.25 0.34</maxSize>
+		<maxSize>1 .85</maxSize>
 		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
+		<zIndex>3</zIndex>
 		<opacity>1</opacity>
-	</video>
+	</video>	
 	</view>
 	</aspectRatio>
-	
+
 	<aspectRatio name="16:10">
 	<view name="gamelist">
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>0.25 0.34</maxSize>
+		<maxSize>1 .85</maxSize>
 		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
+		<zIndex>3</zIndex>
 		<opacity>1</opacity>
 	</video>
 	</view>
@@ -45,40 +43,37 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>0.25 0.34</maxSize>
+		<maxSize>1 .85</maxSize>
 		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
-		<opacity>1</opacity>
-	</video>
-	</view>
-	</aspectRatio>
-
-	<aspectRatio name="21:9">
-	<view name="gamelist">
-	<video name="video">
-		<pos>0.5 0.5</pos>
-		<origin>0.5 0.5</origin>
-		<maxSize>0.25 0.34</maxSize>
-		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
+		<zIndex>3</zIndex>
 		<opacity>1</opacity>
 	</video>
 	</view>
 	</aspectRatio>
 	
+	<aspectRatio name="21:9">
+	<view name="gamelist">
+	<video name="video">
+		<pos>0.5 0.5</pos>
+		<origin>0.5 0.5</origin>
+		<maxSize>1 .85</maxSize>
+		<pillarboxes>false</pillarboxes>
+		<zIndex>3</zIndex>
+		<opacity>1</opacity>
+	</video>
+	</view>
+	</aspectRatio>
+
 	<aspectRatio name="1:1">
 	<view name="gamelist">
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>0.5 0.5</maxSize>
+		<maxSize>1 .85</maxSize>
 		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
+		<zIndex>3</zIndex>
 		<opacity>1</opacity>
-	</video>
+	</video>	
 	</view>
 	</aspectRatio>
 	
@@ -87,12 +82,11 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>0.35 0.45</maxSize>
+		<maxSize>1 .85</maxSize>
 		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
+		<zIndex>3</zIndex>
 		<opacity>1</opacity>
-	</video>
+	</video>	
 	</view>
 	</aspectRatio>
 	</variant>

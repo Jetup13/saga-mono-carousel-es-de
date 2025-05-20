@@ -1,9 +1,9 @@
 <theme>
 	<include>./assets/xml/controllers.xml</include>
-	<include>./assets/xml/gameinfo.xml</include>
 	<include>./assets/xml/gamename.xml</include>
-	<include>./assets/xml/gamevideo.xml</include>
 	<include>./assets/xml/generic.xml</include>
+	<include>./assets/xml/videolarge.xml</include>
+	<include>./assets/xml/videometa.xml</include>
 	<include>./assets/xml/helptime.xml</include>
 	<include>./assets/xml/line.xml</include>
 	<include>./assets/xml/systemshortdescription.xml</include>
@@ -54,7 +54,7 @@
 	</text>
 	</view>
 	
-	<variant name="Generic, PerSystemCarouselSizing, PerSystemCarouselSizingSmall, meta1, meta2, meta3, meta4">
+	<variant name="Generic, PerSystemCarouselSizing, PerSystemCarouselSizingSmall, VideoSm, Meta, VideoLg">
 	<view name="gamelist">
 	<carousel name="gamelist">
 		<defaultImage>${missing}</defaultImage>
@@ -67,6 +67,33 @@
 		<unfocusedItemDimming>0.25</unfocusedItemDimming>
 		<unfocusedItemSaturation>1</unfocusedItemSaturation>
 	</carousel>
+	</view>
+	</variant>
+	
+	<variant name="Meta">
+	<view name="gamelist">
+	<text name="developer, publisher, players, textdev, textpub, textplayer, textdesc, description">
+		<fontPath>${font}</fontPath>
+		<color>${selectedText}</color>
+	</text>
+	</view>
+	</variant>
+	
+	<variant name="Meta">
+	<view name="gamelist">
+	<image name="metabox">
+		<path>${lineimage}</path>
+		<color>${selectorColor}</color>
+		<colorEnd>00000000</colorEnd>
+		<zIndex>1</zIndex>
+	</image>
+	
+	<image name="metaline1, metaline2, metaline3, metaline4">
+		<path>${lineimage}</path>
+		<color>${selectedText}</color>
+		<colorEnd>00000000</colorEnd>
+		<zIndex>2</zIndex>
+	</image>
 	</view>
 	</variant>
 
@@ -127,37 +154,4 @@
 		<customIcon icon="icon_bluetooth">${bluetooth}</customIcon>
 	</systemstatus>
 	</view>
-
-	<variant name="meta1, meta2, meta3, meta4">
-	<view name="gamelist">
-	<text name="description">
-		<fontPath>${font}</fontPath>
-		<color>${selectedText}</color>
-	</text>
-	<image name="descriptionbox">
-		<path>${lineimage}</path>
-		<color>${selectorColor}99</color>
-		<colorEnd>00000000</colorEnd>
-	</image>
-	<text name="publisher">
-		<fontPath>${font}</fontPath>
-		<color>${selectedText}</color>
-	</text>
-	<image name="publisherbox">
-		<path>${lineimage}</path>
-		<color>${selectorColor}99</color>
-		<colorEnd>00000000</colorEnd>
-	</image>
-	</view>
-	</variant>
-	
-	<variant name="meta1, meta2, meta3, meta4">
-	<view name="gamelist">
-	<image name="videobox">
-		<path>${lineimage}</path>
-		<color>00000000</color>
-		<colorEnd>${selectorColor}99</colorEnd>
-	</image>
-	</view>
-	</variant>
 </theme>
