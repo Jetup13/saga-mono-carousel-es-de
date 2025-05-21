@@ -17,5 +17,13 @@
 		<batteryfull>./assets/images/batfull.png</batteryfull>
 		<cell>./assets/images/cell.png</cell>
 		<bluetooth>./assets/images/bluetooth.png</bluetooth>
+		
+		<middlepos>0.5 0.5</middlepos>
+		<sizefull>1 1</sizefull>
+		
+		<charcoal>121212</charcoal>
+		<graytext>D9D9D9</graytext>
+		<graysmedium>AAAAAA</graysmedium>
+		<clear>00000000</clear>
 	</variables>
 </theme>

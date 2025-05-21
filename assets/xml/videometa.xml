@@ -4,6 +4,8 @@
 	<view name="gamelist">
 	<video name="video">	
 		<fadeInType>transparent</fadeInType>
+		<imageType>none</imageType>
+		<delay>.25</delay>
 	</video>
 	</view>
 	</aspectRatio>
@@ -160,6 +162,8 @@
 	</view>
 	</aspectRatio>
 	</variant>
+	
+<!-- Meta View -->
 	
 	<variant name="Meta">
 	<aspectRatio name="16:9">

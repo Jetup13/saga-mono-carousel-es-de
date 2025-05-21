@@ -1,0 +1,22 @@
+<theme>
+	<view name="system">
+	<text name="sys_line1">
+		<visible>false</visible>
+	</text>
+	<text name="sys_line2">
+		<visible>false</visible>
+	</text>
+	<text name="sys_line3">
+		<visible>false</visible>
+	</text>
+	<text name="longdescription">
+		<visible>false</visible>
+	</text>
+	</view>
+
+	<view name="gamelist">
+	<text name="sys_line3">
+		<visible>false</visible>
+	</text>
+	</view>
+</theme>

@@ -5,7 +5,7 @@
 	<video name="video">	
 		<fadeInType>transparent</fadeInType>
 		<imageType>none</imageType>
-		<delay>1.5</delay>
+		<delay>3</delay>
 	</video>
 	</view>
 	</aspectRatio>
@@ -17,7 +17,7 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>1 .85</maxSize>
+		<maxSize>1 .75</maxSize>
 		<pillarboxes>false</pillarboxes>
 		<zIndex>3</zIndex>
 		<opacity>1</opacity>
@@ -30,7 +30,7 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>1 .85</maxSize>
+		<maxSize>1 .75</maxSize>
 		<pillarboxes>false</pillarboxes>
 		<zIndex>3</zIndex>
 		<opacity>1</opacity>
@@ -43,7 +43,7 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>1 .85</maxSize>
+		<maxSize>1 .75</maxSize>
 		<pillarboxes>false</pillarboxes>
 		<zIndex>3</zIndex>
 		<opacity>1</opacity>
@@ -56,7 +56,7 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>1 .85</maxSize>
+		<maxSize>1 .75</maxSize>
 		<pillarboxes>false</pillarboxes>
 		<zIndex>3</zIndex>
 		<opacity>1</opacity>
@@ -69,7 +69,7 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>1 .85</maxSize>
+		<maxSize>1 .75</maxSize>
 		<pillarboxes>false</pillarboxes>
 		<zIndex>3</zIndex>
 		<opacity>1</opacity>
@@ -82,7 +82,7 @@
 	<video name="video">
 		<pos>0.5 0.5</pos>
 		<origin>0.5 0.5</origin>
-		<maxSize>1 .85</maxSize>
+		<maxSize>1 .75</maxSize>
 		<pillarboxes>false</pillarboxes>
 		<zIndex>3</zIndex>
 		<opacity>1</opacity>

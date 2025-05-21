@@ -176,8 +176,8 @@
 	<view name="gamelist">
 	<carousel name="gamelist">
 		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+		<pos>${middlepos}</pos>
+		<origin>${middlepos}</origin>
 		<selectedItemOffset>0 0</selectedItemOffset>
 		<itemScale>1.425</itemScale>
 	</carousel>
@@ -190,8 +190,8 @@
 	<view name="gamelist">
 	<carousel name="gamelist">
 		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
+		<pos>${middlepos}</pos>
+		<origin>${middlepos}</origin>
 		<selectedItemOffset>0 0</selectedItemOffset>
 		<itemScale>1</itemScale>
 	</carousel>

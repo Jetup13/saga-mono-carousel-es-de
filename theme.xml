@@ -5,6 +5,7 @@
 	<include>./assets/xml/videolarge.xml</include>
 	<include>./assets/xml/videometa.xml</include>
 	<include>./assets/xml/helptime.xml</include>
+	<include>./assets/xml/hide.xml</include>
 	<include>./assets/xml/line.xml</include>
 	<include>./assets/xml/systemshortdescription.xml</include>
 	<include>./assets/xml/variables.xml</include>
@@ -18,17 +19,17 @@
 		<staticImage>${logos}</staticImage>
 		<defaultImage>${logos2}</defaultImage>
 		<type>horizontal</type>
-		<color>00000000</color>
+		<color>${clear}</color>
 		<zIndex>2</zIndex>
 		
 		<unfocusedItemOpacity>1</unfocusedItemOpacity>
 		<unfocusedItemDimming>0.25</unfocusedItemDimming>
 		<unfocusedItemSaturation>1</unfocusedItemSaturation>
 
-		<pos>.5 .5</pos>
-		<origin>.5 .5</origin>
+		<pos>${middlepos}</pos>
+		<origin>${middlepos}</origin>
 		<size>1 1</size>
-		<itemSize>0.4 0.6</itemSize>
+		<itemSize>0.4 0.4</itemSize>
 		<selectedItemOffset>0 0</selectedItemOffset>
 		<selectedItemMargins>0.25 0.25</selectedItemMargins>
 		<itemScale>1</itemScale>
@@ -39,15 +40,6 @@
 		<color>${textColor}</color>
 	</image>
 
-	<text name="sys_line1">
-		<visible>false</visible>
-	</text>
-	<text name="sys_line2">
-		<visible>false</visible>
-	</text>
-	<text name="longdescription">
-		<visible>false</visible>
-	</text>
 	<text name="shortdescription">
 		<fontPath>${font}</fontPath>
 		<color>${textColor}</color>
@@ -60,7 +52,7 @@
 		<defaultImage>${missing}</defaultImage>
 		<imageType>cover</imageType>
 		<type>horizontal</type>
-		<color>00000000</color>
+		<color>${clear}</color>
 		<zIndex>2</zIndex>
 
 		<unfocusedItemOpacity>1</unfocusedItemOpacity>
@@ -69,38 +61,8 @@
 	</carousel>
 	</view>
 	</variant>
-	
-	<variant name="Meta">
-	<view name="gamelist">
-	<text name="developer, publisher, players, textdev, textpub, textplayer, textdesc, description">
-		<fontPath>${font}</fontPath>
-		<color>${selectedText}</color>
-	</text>
-	</view>
-	</variant>
-	
-	<variant name="Meta">
-	<view name="gamelist">
-	<image name="metabox">
-		<path>${lineimage}</path>
-		<color>${selectorColor}</color>
-		<colorEnd>00000000</colorEnd>
-		<zIndex>1</zIndex>
-	</image>
-	
-	<image name="metaline1, metaline2, metaline3, metaline4">
-		<path>${lineimage}</path>
-		<color>${selectedText}</color>
-		<colorEnd>00000000</colorEnd>
-		<zIndex>2</zIndex>
-	</image>
-	</view>
-	</variant>
 
 	<view name="gamelist">
-	<text name="sys_line3">
-		<visible>false</visible>
-	</text>
 	<text name="gamename">
 		<fontPath>${font}</fontPath>
 		<color>${textColor}</color>
@@ -118,7 +80,7 @@
 		<zIndex>1</zIndex>
 		<pos>0 0</pos>
 		<size>1 1</size>
-		<color>121212</color>
+		<color>${charcoal}</color>
 	</image>
 	
 	<helpsystem name="help">
@@ -154,4 +116,38 @@
 		<customIcon icon="icon_bluetooth">${bluetooth}</customIcon>
 	</systemstatus>
 	</view>
+	
+<!-- Meta View -->
+	
+	<variant name="Meta">
+	<view name="gamelist">
+	<text name="developer, publisher, players, textdev, textpub, textplayer, textdesc, description">
+		<fontPath>${font}</fontPath>
+	</text>
+
+	<text name="textdev, textpub, textplayer, textdesc">
+		<color>${graytext}</color>
+	</text>
+
+	<text name="developer, publisher, players, description">
+		<color>${graysmedium}</color>
+	</text>
+	
+	<image name="metabox">
+		<path>${lineimage}</path>
+		<color>${selectorColor}</color>
+		<colorEnd>${clear}</colorEnd>
+		<opacity>.2</opacity>
+		<zIndex>1</zIndex>
+	</image>
+	
+	<image name="metaline1">
+		<path>${lineimage}</path>
+		<color>${selectedText}</color>
+		<colorEnd>${clear}</colorEnd>
+		<opacity>.7</opacity>
+		<zIndex>2</zIndex>
+	</image>
+	</view>
+	</variant>
 </theme>
