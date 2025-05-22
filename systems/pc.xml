@@ -70,7 +70,7 @@
 <longdescription>IBM 个人电脑（型号 5150，通常称为 IBM PC）是 IBM PC 型号系列中发布的第一款微型计算机，也是 IBM PC 兼容事实标准的基础</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

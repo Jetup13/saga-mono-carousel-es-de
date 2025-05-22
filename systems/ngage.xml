@@ -73,7 +73,7 @@
 <longdescription>N-Gage 是诺基亚开发的一款集手机和掌上游戏系统功能于一身的智能手机，于 2002 年 11 月 4 日发布，2003 年 10 月 7 日上市</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

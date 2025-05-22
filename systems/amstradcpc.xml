@@ -70,7 +70,7 @@
 <longdescription>Amstrad 彩色个人电脑（又称 Amstrad CPC）是 Amstrad 设计的一系列 8 位家用电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

@@ -73,7 +73,7 @@
 <longdescription>Game Gear 是世嘉公司于 1990 年 10 月 6 日在日本发布的一款 8 位第四代掌上游戏机，1991 年 4 月在北美和欧洲发布，1992 年在澳大利亚发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

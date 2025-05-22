@@ -73,7 +73,7 @@
 <longdescription>Triforce（トライフォース）是世嘉（Sega）、任天堂（Nintendo）和南梦宫（Namco）合资开发的一款街机游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

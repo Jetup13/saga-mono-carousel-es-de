@@ -73,7 +73,7 @@
 <longdescription>雅达利 XE 视频游戏系统（Atari XEGS）是对雅达利 65XE 家用电脑的工业重新设计，也是雅达利 8 位系列的最后一个型号</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

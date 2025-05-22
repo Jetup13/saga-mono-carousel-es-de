@@ -70,7 +70,7 @@
 <longdescription>Satellaview 是任天堂超级 Famicom 系统的卫星调制解调器外设，于 1995 年在日本发售</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

@@ -73,7 +73,7 @@
 <longdescription>世嘉 Model 2 是世嘉公司于 1993 年首次推出的一款街机系统板卡，是世嘉 Model 1 板卡的后续产品</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

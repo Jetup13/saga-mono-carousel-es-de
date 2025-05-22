@@ -70,7 +70,7 @@
 <longdescription>WonderSwan 是日本 Bandai 推出的一款掌上游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

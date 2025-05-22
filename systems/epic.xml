@@ -73,7 +73,7 @@
 <longdescription>Epic Games Store 是由 Epic Games 运营的 Microsoft Windows 和 macOS 数字视频游戏店面</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

@@ -73,7 +73,7 @@
 <longdescription>CP System III（CPシステムIII，shīpī shisutemu surī）或 CPS-3 是一种街机系统板卡，卡普空公司于 1996 年首次将其用于街机游戏《红土地》</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

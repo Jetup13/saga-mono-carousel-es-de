@@ -73,7 +73,7 @@
 <longdescription>NAOMI（New Arcade Operation Machine Idea）是世嘉于 1998 年发布的一款街机系统</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

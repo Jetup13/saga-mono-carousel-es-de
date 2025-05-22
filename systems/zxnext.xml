@@ -73,7 +73,7 @@
 <longdescription>ZX Spectrum Next 是一款 8 位家用电脑，最初于 2017 年发布，兼容 1982 年 ZX Spectrum 的软件和硬件</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

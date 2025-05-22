@@ -70,7 +70,7 @@
 <longdescription>雅达利 Lynx（通常简称 Lynx）是与 Epyx 公司合作开发的第四代（1987-2004 年）掌上视频游戏机，由雅达利公司发行</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

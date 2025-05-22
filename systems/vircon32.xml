@@ -70,7 +70,7 @@
 <longdescription>Vircon32 是一款受经典 16 位和 32 位系统以及街机时代启发的虚拟主机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

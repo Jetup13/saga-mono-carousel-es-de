@@ -73,7 +73,7 @@
 <longdescription>CP System（CPシステム，shīpī shisutemu，简称 CPS）是卡普空公司开发的一种街机系统板卡，可运行存储在可移动子板上的游戏软件</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

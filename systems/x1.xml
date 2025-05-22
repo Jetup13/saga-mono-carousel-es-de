@@ -73,7 +73,7 @@
 <longdescription>X1（エックスワン，Ekkusuwan），有时也称为夏普 X1，是夏普公司于 1982 年至 1988 年间推出的一系列家用电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

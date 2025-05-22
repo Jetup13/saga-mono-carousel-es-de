@@ -73,7 +73,7 @@
 <longdescription>RadioShack TRS-80 彩色电脑，后来被称为 Tandy 彩色电脑，有时也被昵称为 CoCo，是 Tandy 公司开发和销售的家用电脑系列</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

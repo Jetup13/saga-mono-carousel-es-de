@@ -70,7 +70,7 @@
 <longdescription>EasyRPG 是一款用于创建 RPG 游戏的免费开源引擎，其目标是兼容所有 RPG Maker 2000 和 RPG Maker 2003 游戏</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

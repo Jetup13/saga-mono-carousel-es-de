@@ -70,7 +70,7 @@
 <longdescription>Atomiswave 是 Sammy 公司定制的街机系统板和机箱</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

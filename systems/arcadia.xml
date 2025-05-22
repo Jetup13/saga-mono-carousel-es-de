@@ -73,7 +73,7 @@
 <longdescription>Arcadia 2001 是 Emerson Radio 于 1982 年 5 月发布的第二代 8 位家用视频游戏机，售价 99 美元，比 ColecoVision 早几个月发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

@@ -73,7 +73,7 @@
 <longdescription>Amiga CD32，型号为 &quot;CD32&quot;，代号为 &quot;Spellbound&quot;，是第一款在西欧、澳大利亚、加拿大和巴西发布的 32 位家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

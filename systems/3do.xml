@@ -73,7 +73,7 @@
 <longdescription>3DO Interactive Multiplayer（通常简称为 3DO）是松下公司于 1993 年推出的一款视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

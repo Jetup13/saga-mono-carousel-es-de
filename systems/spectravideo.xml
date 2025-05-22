@@ -70,7 +70,7 @@
 <longdescription>Spectravideo 国际有限公司（SVI）是一家美国计算机制造商和软件公司</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

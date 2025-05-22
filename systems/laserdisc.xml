@@ -70,7 +70,7 @@
 <longdescription>激光视盘街机游戏使用预先录制的视频，可以与叠加精灵结合使用，也可以简单地作为玩家可以控制的视频部分</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

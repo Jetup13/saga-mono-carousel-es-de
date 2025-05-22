@@ -73,7 +73,7 @@
 <longdescription>FM Towns（日语：エフエムタウンズ，合本：Efu Emu Taunzu）是富士通公司在 1989 年 2 月至 1997 年夏季期间制造的一款日本个人电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

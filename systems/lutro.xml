@@ -70,7 +70,7 @@
 <longdescription>Lutro 是一个 2D 游戏框架，旨在实现简单性和极高的可移植性</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

@@ -70,7 +70,7 @@
 <longdescription>Pokémon Mini 是任天堂设计和制造的一款掌上游戏机，以 Pokémon 媒体特许经营为主题</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

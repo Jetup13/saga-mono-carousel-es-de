@@ -70,7 +70,7 @@
 <longdescription>1976 年，电脑先驱史蒂夫-沃兹尼亚克和史蒂夫-乔布斯开始向电脑商店出售他们的套装版 Apple I 电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

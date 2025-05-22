@@ -73,7 +73,7 @@
 <longdescription>Sega Mark III 于1985年在日本发布，是一款先进的8位游戏机，后来在国际上成为 Sega Master System</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

@@ -73,7 +73,7 @@
 <longdescription>家庭电脑磁盘系统（Family Computer Disk System），有时简称为 &quot;Famicom Disk System &quot;或 &quot;Disk System&quot;，缩写为 &quot;FDS &quot;或 &quot;FCD&quot;，是任天堂家庭电脑家用视频游戏机的外围设备，于 1986 年 2 月 21 日在日本发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

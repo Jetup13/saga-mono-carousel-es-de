@@ -73,7 +73,7 @@
 <longdescription>汤姆逊 MOTO 系列计算机是法国电子公司汤姆逊在 20 世纪 80 年代销售的一系列 8 位计算机，该公司已于 1982 年国有化</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

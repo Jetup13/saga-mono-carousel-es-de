@@ -70,7 +70,7 @@
 <longdescription>任天堂 DS 或简称 DS，是任天堂开发并发布的 32 位双屏幕掌上游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

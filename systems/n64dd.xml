@@ -70,7 +70,7 @@
 <longdescription>64DD，俗称任天堂 64DD，是任天堂为任天堂 64 游戏机开发的磁盘驱动器外设</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

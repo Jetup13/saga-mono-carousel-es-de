@@ -70,7 +70,7 @@
 <longdescription>Moonlight（前身为 Limelight）是英伟达 GameStream 协议的开源实现</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

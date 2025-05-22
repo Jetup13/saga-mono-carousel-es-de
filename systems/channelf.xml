@@ -93,7 +93,7 @@ Fairchild Channel F 是 Fairchild Semiconductor 于 1976 年 11 月发布的一�
 </longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

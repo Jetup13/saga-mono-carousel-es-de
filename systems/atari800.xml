@@ -70,7 +70,7 @@
 <longdescription>雅达利 8 位系列是雅达利公司于 1979 年推出的 8 位家用电脑系列，名为雅达利 400 和雅达利 800，一直生产到 1992 年</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

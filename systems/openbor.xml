@@ -70,7 +70,7 @@
 <longdescription>Beats of Rage》是一款粉丝制作的向世嘉《Streets of Rage》系列致敬的游戏</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

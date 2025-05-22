@@ -73,7 +73,7 @@
 <longdescription>世嘉 Model 3 是世嘉公司与洛克希德-马丁公司合作生产的一款街机平台</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

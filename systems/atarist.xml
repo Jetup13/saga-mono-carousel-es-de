@@ -70,7 +70,7 @@
 <longdescription>雅达利 ST 是雅达利公司推出的家用电脑系列，也是雅达利 8 位系列的后续产品</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

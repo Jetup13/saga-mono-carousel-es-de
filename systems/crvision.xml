@@ -73,7 +73,7 @@
 <longdescription>Video Technology CreatiVision 是伟易达于 1981 年推出的一款混合电脑和家用视频游戏机，于 1982 年第二代视频游戏机时期发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

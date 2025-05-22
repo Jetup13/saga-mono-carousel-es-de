@@ -70,7 +70,7 @@
 <longdescription>Kodi 是由非营利技术联盟 XBMC 基金会开发的一款免费开源媒体播放器软件应用程序</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

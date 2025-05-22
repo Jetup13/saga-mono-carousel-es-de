@@ -73,7 +73,7 @@
 <longdescription>TRS-80 微型计算机系统（TRS-80，后更名为 I 型，以区别于后续产品）是一款台式微型计算机，于 1977 年推出，由 Tandy 公司通过其 Radio Shack 商店销售</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

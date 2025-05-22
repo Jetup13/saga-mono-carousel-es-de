@@ -73,7 +73,7 @@
 <longdescription>Coleco Adam 是美国玩具和视频游戏制造商 Coleco 推出的一款家用电脑和 ColecoVision 的扩展设备</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

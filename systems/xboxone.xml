@@ -73,7 +73,7 @@
 <longdescription>Xbox One 是由微软开发的第八代家用电子游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

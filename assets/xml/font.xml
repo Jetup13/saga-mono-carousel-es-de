@@ -1,0 +1,23 @@
+<theme>
+
+	<fontSize name="medium">
+	<variables>
+		<gamename>0.035</gamename>
+		<gamename1-1>0.030</gamename1-1>
+		<metafont>0.033</metafont>
+		<metafont4-3>0.033</metafont4-3>
+		<descriptionsize>0.028</descriptionsize>
+	</variables>
+	</fontSize>
+
+	<fontSize name="large">
+	<variables>
+		<gamename>0.040</gamename>
+		<gamename1-1>0.030</gamename1-1>
+		<metafont>0.035</metafont>
+		<metafont4-3>0.033</metafont4-3>
+		<descriptionsize>0.028</descriptionsize>
+	</variables>
+	</fontSize>
+	
+</theme>

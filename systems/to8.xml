@@ -73,7 +73,7 @@
 <longdescription>汤姆逊 TO8 是法国汤姆逊公司于 1986 年推出的一款家用电脑，售价 2,990 法郎</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

@@ -70,7 +70,7 @@
 <longdescription>Quake 是一款第一人称射击游戏，由 id Software 开发，GT Interactive 发行</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

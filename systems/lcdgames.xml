@@ -73,7 +73,7 @@
 <longdescription>手持电子游戏机是一种非常小的便携式设备，用于玩互动电子游戏，通常是视频游戏的小型化版本</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

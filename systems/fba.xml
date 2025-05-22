@@ -73,7 +73,7 @@
 <longdescription>这个可获得源代码的项目基于 Dave 于 2000 年创建的 FinalBurn</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

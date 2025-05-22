@@ -73,7 +73,7 @@
 <longdescription>CD-ROM²（读作 CD-ROM-ROM）是 PC 引擎的一个附加附件，于 1988 年 12 月 4 日在日本发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

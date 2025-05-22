@@ -73,7 +73,7 @@
 <longdescription>Game Boy Color（简称 GBC）是任天堂公司生产的一款掌上游戏机，1998 年 10 月 21 日在日本发布，同年 11 月在国际市场发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

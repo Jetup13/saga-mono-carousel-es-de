@@ -73,7 +73,7 @@
 <longdescription>MSX 是微软和 ASCII 公司于 1983 年 6 月 16 日发布的一种标准化家用电脑架构</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

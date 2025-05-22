@@ -70,7 +70,7 @@
 <longdescription>在整个游戏库中查看和玩你最喜欢的游戏</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

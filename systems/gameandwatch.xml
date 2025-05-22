@@ -73,7 +73,7 @@
 <longdescription>Game &amp; Watch 品牌是任天堂于 1980 年至 1991 年间开发、制造、发行和销售的一系列掌上电子游戏</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

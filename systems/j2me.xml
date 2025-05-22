@@ -70,7 +70,7 @@
 <longdescription>Java Platform, Micro Edition 或 Java ME 是一个计算平台，用于为嵌入式和移动设备（微控制器、传感器、网关、手机、个人数字助理、电视机顶盒、打印机）开发和部署可移植代码</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

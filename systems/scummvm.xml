@@ -70,7 +70,7 @@
 <longdescription>狂人虚拟机脚本创建实用程序（ScummVM）是一套游戏引擎重现程序</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

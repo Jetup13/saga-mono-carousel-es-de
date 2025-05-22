@@ -70,7 +70,7 @@
 <longdescription>街机游戏或投币机是一种投币式娱乐机器，通常安装在餐馆、酒吧和游乐场等公共场所</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

@@ -73,7 +73,7 @@
 <longdescription>Super A'can 是 Funtech/Dunhuang Technology 于 1995 年在台湾独家发布的一款家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

@@ -73,7 +73,7 @@
 <longdescription>安卓（Android）是一种移动操作系统，基于修改版的 Linux 内核和其他开源软件，主要为触摸屏移动设备（如智能手机和平板电脑）而设计</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

@@ -73,7 +73,7 @@
 <longdescription>FM-7（&quot;Fujitsu Micro 7&quot;）是富士通公司推出的一款家用电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

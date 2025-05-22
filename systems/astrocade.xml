@@ -73,7 +73,7 @@
 <longdescription>Bally Astrocade（又称 Bally Arcade 或最初的 Bally ABA-1000）是第二代家用视频游戏机和简单的计算机系统，由 Midway（当时的 Bally 电子游戏部门）的一个团队设计</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

@@ -73,7 +73,7 @@
 <longdescription>Taito Type X 是游戏开发商和发行商 Taito 于 2004 年发布的一款街机系统板卡</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

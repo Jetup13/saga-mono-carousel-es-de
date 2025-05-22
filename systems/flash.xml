@@ -73,7 +73,7 @@
 <longdescription>Adobe Flash（前身为 Macromedia Flash 和 FutureSplash）是一个多媒体软件平台，用于制作动画、丰富的网络应用程序、桌面应用程序、移动应用程序、移动游戏和嵌入式网络浏览器视频播放器</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

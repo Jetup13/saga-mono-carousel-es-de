@@ -70,7 +70,7 @@
 <longdescription>Vectrex 是一款基于矢量显示器的家用视频游戏机，是史密斯工程公司开发的唯一一款为家用市场设计和发布的游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

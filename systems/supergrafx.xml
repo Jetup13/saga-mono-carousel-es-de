@@ -74,7 +74,7 @@
 <longdescription>PC Engine SuperGrafx（PC エンジンスーパーグラフィックス，Pī Shī Enjin SūpāGurafikkusu），又称 SuperGrafx，是 NEC 家庭电子公司制造的第四代家用视频游戏机，1989 年在日本和法国发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

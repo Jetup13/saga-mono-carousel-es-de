@@ -73,7 +73,7 @@
 <longdescription>Amiga 是 Commodore 在 20 世纪 80 年代和 90 年代推出的个人电脑系列</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

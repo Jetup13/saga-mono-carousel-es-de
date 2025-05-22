@@ -70,7 +70,7 @@
 <longdescription>LowRes NX 的灵感来源于真实的 8 位和 16 位系统，它模拟了图形、声音和输入/输出芯片，这些芯片的工作原理与经典硬件无异</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

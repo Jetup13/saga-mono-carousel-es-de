@@ -70,7 +70,7 @@
 <longdescription>Solarus 在设计时特别考虑到了经典的 2D 动作 RPG 游戏，如超级任天堂上的《塞尔达传说：前世之旅》和《玛娜秘境》，或世嘉 Megadrive/Genesis 上的《Soleil》</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

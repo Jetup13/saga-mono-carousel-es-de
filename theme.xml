@@ -1,9 +1,11 @@
 <theme>
 	<include>./assets/xml/controllers.xml</include>
+	<include>./assets/xml/font.xml</include>
 	<include>./assets/xml/gamename.xml</include>
 	<include>./assets/xml/generic.xml</include>
-	<include>./assets/xml/videolarge.xml</include>
-	<include>./assets/xml/videometa.xml</include>
+	<include>./assets/xml/metaview.xml</include>
+	<include>./assets/xml/videolargeview.xml</include>
+	<include>./assets/xml/videosmallview.xml</include>
 	<include>./assets/xml/helptime.xml</include>
 	<include>./assets/xml/hide.xml</include>
 	<include>./assets/xml/line.xml</include>
@@ -13,6 +15,7 @@
 	<include>./systems/${system.theme}.xml</include>
 	<include>./assets/xml/views/${system.theme}.xml</include>
 
+<!-- System View -->
 
 	<view name="system">
 	<carousel name="system">
@@ -21,7 +24,7 @@
 		<type>horizontal</type>
 		<color>${clear}</color>
 		<zIndex>2</zIndex>
-		
+
 		<unfocusedItemOpacity>1</unfocusedItemOpacity>
 		<unfocusedItemDimming>0.25</unfocusedItemDimming>
 		<unfocusedItemSaturation>1</unfocusedItemSaturation>
@@ -34,7 +37,7 @@
 		<selectedItemMargins>0.25 0.25</selectedItemMargins>
 		<itemScale>1</itemScale>
 	</carousel>
-	
+
 	<image name="controllers">
 		<path>${controllers}</path>
 		<color>${textColor}</color>
@@ -46,6 +49,8 @@
 	</text>
 	</view>
 	
+<!-- Gamelist View -->
+
 	<variant name="Generic, PerSystemCarouselSizing, PerSystemCarouselSizingSmall, VideoSm, Meta, VideoLg">
 	<view name="gamelist">
 	<carousel name="gamelist">
@@ -69,44 +74,40 @@
 	</text>
 	</view>
 	
+<!-- All Views -->
+
 	<view name="gamelist, system">
 	<image name="line1, line2">
 		<path>${lineimage}</path>
 		<zIndex>2</zIndex>
 	</image>
-	
+
 	<image name="background">
 		<path>${lineimage}</path>
 		<zIndex>1</zIndex>
 		<pos>0 0</pos>
 		<size>1 1</size>
-		<color>${charcoal}</color>
+		<color>${backgroundcolor}</color>
 	</image>
-	
+
 	<helpsystem name="help">
 		<textColor>${textColor}</textColor>
 		<iconColor>${textldColor}</iconColor>
 		<fontPath>${font}</fontPath>
-		<entries>
-			a,
-			back,
-			b,
-			l,
-			r,
-		</entries>
+		<entries>a,back,b,l,r,</entries>
 	</helpsystem>
-	
+
 	<clock name="clock">
 		<format>%H:%M</format>
 		<color>${textColor}</color>
 		<fontPath>${font}</fontPath>
 	</clock>
-	
+
 	<systemstatus name="systemStatus">
 		<entries>all</entries>
 		<color>${textColor}</color>
-		<fontPath>${font}</fontPath>	
-		<customIcon icon="icon_wifi">${wifi}</customIcon>	
+		<fontPath>${font}</fontPath>
+		<customIcon icon="icon_wifi">${wifi}</customIcon>
 		<customIcon icon="icon_battery_charging">${batterycharge}</customIcon>
 		<customIcon icon="icon_battery_low">${batterylow}</customIcon>
 		<customIcon icon="icon_battery_medium">${batterymedium}</customIcon>
@@ -116,9 +117,9 @@
 		<customIcon icon="icon_bluetooth">${bluetooth}</customIcon>
 	</systemstatus>
 	</view>
-	
+
 <!-- Meta View -->
-	
+
 	<variant name="Meta">
 	<view name="gamelist">
 	<text name="developer, publisher, players, textdev, textpub, textplayer, textdesc, description">
@@ -132,7 +133,7 @@
 	<text name="developer, publisher, players, description">
 		<color>${graysmedium}</color>
 	</text>
-	
+
 	<image name="metabox">
 		<path>${lineimage}</path>
 		<color>${selectorColor}</color>
@@ -140,7 +141,7 @@
 		<opacity>.2</opacity>
 		<zIndex>1</zIndex>
 	</image>
-	
+
 	<image name="metaline1">
 		<path>${lineimage}</path>
 		<color>${selectedText}</color>

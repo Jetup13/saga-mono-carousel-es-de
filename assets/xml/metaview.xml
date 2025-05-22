@@ -1,170 +1,4 @@
 <theme>
-	<variant name="VideoSm">
-	<aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 1:1, 4:3">
-	<view name="gamelist">
-	<video name="video">	
-		<fadeInType>transparent</fadeInType>
-		<imageType>none</imageType>
-		<delay>.25</delay>
-	</video>
-	</view>
-	</aspectRatio>
-	</variant>
-
-	<variant name="VideoSm">
-	<aspectRatio name="16:9">
-	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1.5</size>
-		<pos>0.5 0.225</pos>
-		<origin>0.5 0.5</origin>
-		<maxItemCount>6</maxItemCount>
-		<itemSize>0.16 0.3</itemSize>
-		<horizontalOffset>-0.25</horizontalOffset>
-		<selectedItemMargins>0.0 0.0</selectedItemMargins>
-		<selectedItemOffset>0 0.25</selectedItemOffset>
-		<itemScale>1.8</itemScale>
-	</carousel>
-	<video name="video">
-		<pos>0.7 0.68</pos>
-		<origin>0.5 0.5</origin>
-		<maxSize>.5 .5</maxSize>
-		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
-		<opacity>1</opacity>
-	</video>	
-	</view>
-	</aspectRatio>
-
-	<aspectRatio name="16:10">
-	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1.5</size>
-		<pos>0.5 0.225</pos>
-		<origin>0.5 0.5</origin>
-		<maxItemCount>6</maxItemCount>
-		<itemSize>0.16 0.3</itemSize>
-		<horizontalOffset>-0.25</horizontalOffset>
-		<selectedItemMargins>0.0 0.0</selectedItemMargins>
-		<selectedItemOffset>0 0.25</selectedItemOffset>
-		<itemScale>1.8</itemScale>
-	</carousel>
-	<video name="video">
-		<pos>0.7 0.68</pos>
-		<origin>0.5 0.5</origin>
-		<maxSize>.5 .5</maxSize>
-		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
-		<opacity>1</opacity>
-	</video>	
-	</view>
-	</aspectRatio>
-
-	<aspectRatio name="19.5:9">
-	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1.5</size>
-		<pos>0.5 0.225</pos>
-		<origin>0.5 0.5</origin>
-		<maxItemCount>6</maxItemCount>
-		<itemSize>0.16 0.3</itemSize>
-		<horizontalOffset>-0.25</horizontalOffset>
-		<selectedItemMargins>0.0 0.0</selectedItemMargins>
-		<selectedItemOffset>0 0.25</selectedItemOffset>
-		<itemScale>1.8</itemScale>
-	</carousel>
-	<video name="video">
-		<pos>0.7 0.68</pos>
-		<origin>0.5 0.5</origin>
-		<maxSize>.5 .5</maxSize>
-		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
-		<opacity>1</opacity>
-	</video>	
-	</view>
-	</aspectRatio>
-	
-	<aspectRatio name="21:9">
-	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1.5</size>
-		<pos>0.5 0.225</pos>
-		<origin>0.5 0.5</origin>
-		<maxItemCount>6</maxItemCount>
-		<itemSize>0.16 0.3</itemSize>
-		<horizontalOffset>-0.25</horizontalOffset>
-		<selectedItemMargins>0.0 0.0</selectedItemMargins>
-		<selectedItemOffset>0 0.25</selectedItemOffset>
-		<itemScale>1.8</itemScale>
-	</carousel>
-	<video name="video">
-		<pos>0.7 0.68</pos>
-		<origin>0.5 0.5</origin>
-		<maxSize>.5 .5</maxSize>
-		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
-		<opacity>1</opacity>
-	</video>	
-	</view>
-	</aspectRatio>
-
-	<aspectRatio name="1:1">
-	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1.5</size>
-		<pos>0.5 0.225</pos>
-		<origin>0.5 0.5</origin>
-		<maxItemCount>6</maxItemCount>
-		<itemSize>0.16 0.3</itemSize>
-		<horizontalOffset>-0.25</horizontalOffset>
-		<selectedItemMargins>0.0 0.0</selectedItemMargins>
-		<selectedItemOffset>0 0.25</selectedItemOffset>
-		<itemScale>1.8</itemScale>
-	</carousel>
-	<video name="video">
-		<pos>0.7 0.68</pos>
-		<origin>0.5 0.5</origin>
-		<maxSize>.5 .5</maxSize>
-		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
-		<opacity>1</opacity>
-	</video>	
-	</view>
-	</aspectRatio>
-	
-	<aspectRatio name="4:3">
-	<view name="gamelist">
-	<carousel name="gamelist">	
-		<size>1 1.5</size>
-		<pos>0.5 0.225</pos>
-		<origin>0.5 0.5</origin>
-		<maxItemCount>6</maxItemCount>
-		<itemSize>0.16 0.3</itemSize>
-		<horizontalOffset>-0.25</horizontalOffset>
-		<selectedItemMargins>0.0 0.0</selectedItemMargins>
-		<selectedItemOffset>0 0.25</selectedItemOffset>
-		<itemScale>1.8</itemScale>
-	</carousel>
-	<video name="video">
-		<pos>0.7 0.68</pos>
-		<origin>0.5 0.5</origin>
-		<maxSize>.5 .5</maxSize>
-		<pillarboxes>false</pillarboxes>
-		<videoCornerRadius>0.005</videoCornerRadius>
-		<zIndex>1</zIndex>
-		<opacity>1</opacity>
-	</video>	
-	</view>
-	</aspectRatio>
-	</variant>
-	
-<!-- Meta View -->
-	
 	<variant name="Meta">
 	<aspectRatio name="16:9">
 	<view name="gamelist">
@@ -173,7 +7,7 @@
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="developer">
@@ -181,7 +15,7 @@
 		<pos>0.82 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textpub">
@@ -189,7 +23,7 @@
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="publisher">
@@ -197,7 +31,7 @@
 		<pos>0.82 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textplayer">
@@ -205,7 +39,7 @@
 		<pos>0.7 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="players">
@@ -213,7 +47,7 @@
 		<pos>0.82 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textdesc">
@@ -221,7 +55,7 @@
 		<pos>0.7 0.6</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="description">
@@ -229,7 +63,7 @@
 		<pos>0.7 0.78</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.028</fontSize>
+		<fontSize>${descriptionsize}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<image name="metabox">
@@ -253,7 +87,7 @@
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="developer">
@@ -261,7 +95,7 @@
 		<pos>0.83 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textpub">
@@ -269,7 +103,7 @@
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="publisher">
@@ -277,7 +111,7 @@
 		<pos>0.83 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textplayer">
@@ -285,7 +119,7 @@
 		<pos>0.7 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="players">
@@ -293,7 +127,7 @@
 		<pos>0.83 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textdesc">
@@ -301,7 +135,7 @@
 		<pos>0.7 0.6</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="description">
@@ -309,7 +143,7 @@
 		<pos>0.7 0.78</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.028</fontSize>
+		<fontSize>${descriptionsize}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<image name="metabox">
@@ -333,7 +167,7 @@
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="developer">
@@ -341,7 +175,7 @@
 		<pos>0.8 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textpub">
@@ -349,7 +183,7 @@
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="publisher">
@@ -357,7 +191,7 @@
 		<pos>0.8 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textplayer">
@@ -365,7 +199,7 @@
 		<pos>0.7 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="players">
@@ -373,7 +207,7 @@
 		<pos>0.8 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textdesc">
@@ -381,7 +215,7 @@
 		<pos>0.7 0.6</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="description">
@@ -389,7 +223,7 @@
 		<pos>0.7 0.78</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.028</fontSize>
+		<fontSize>${descriptionsize}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<image name="metabox">
@@ -413,7 +247,7 @@
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="developer">
@@ -421,7 +255,7 @@
 		<pos>0.79 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textpub">
@@ -429,7 +263,7 @@
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="publisher">
@@ -437,7 +271,7 @@
 		<pos>0.79 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textplayer">
@@ -445,7 +279,7 @@
 		<pos>0.7 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="players">
@@ -453,7 +287,7 @@
 		<pos>0.79 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textdesc">
@@ -461,7 +295,7 @@
 		<pos>0.7 0.6</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="description">
@@ -469,7 +303,7 @@
 		<pos>0.7 0.78</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.028</fontSize>
+		<fontSize>${descriptionsize}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<image name="metabox">
@@ -493,7 +327,7 @@
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="developer">
@@ -501,7 +335,7 @@
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textdesc">
@@ -509,7 +343,7 @@
 		<pos>0.7 0.6</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.035</fontSize>
+		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="description">
@@ -517,7 +351,7 @@
 		<pos>0.7 0.78</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.028</fontSize>
+		<fontSize>${descriptionsize}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<image name="metabox">
@@ -541,7 +375,7 @@
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.033</fontSize>
+		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="developer">
@@ -549,7 +383,7 @@
 		<pos>0.85 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.033</fontSize>
+		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textpub">
@@ -557,7 +391,7 @@
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.033</fontSize>
+		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="publisher">
@@ -565,7 +399,7 @@
 		<pos>0.85 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.033</fontSize>
+		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textplayer">
@@ -573,7 +407,7 @@
 		<pos>0.7 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.033</fontSize>
+		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="players">
@@ -581,7 +415,7 @@
 		<pos>0.85 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.033</fontSize>
+		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="textdesc">
@@ -589,7 +423,7 @@
 		<pos>0.7 0.6</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.033</fontSize>
+		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<text name="description">
@@ -597,7 +431,7 @@
 		<pos>0.7 0.78</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
-		<fontSize>0.028</fontSize>
+		<fontSize>${descriptionsize}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
 	<image name="metabox">

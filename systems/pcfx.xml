@@ -73,7 +73,7 @@
 <longdescription>PC-FX 是由 NEC 和 Hudson Soft 共同开发的 32 位家用视频游戏机，于 1994 年在日本发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

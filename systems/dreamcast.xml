@@ -73,7 +73,7 @@
 <longdescription>Dreamcast 是世嘉公司于 1998 年 11 月 27 日在日本、1999 年 9 月 9 日在北美、1999 年 10 月 14 日在欧洲发布的家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

@@ -73,7 +73,7 @@
 <longdescription>虽然街机板传统上都是定制设计，但也有一些系统是基于家用游戏机平台的</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

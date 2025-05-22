@@ -73,7 +73,7 @@
 <longdescription>超级游戏男孩（Super Game Boy，Sūpā Gēmu Bōi）是一种外设，允许在超级任天堂娱乐系统游戏机上播放游戏男孩卡带，兼容与原始游戏男孩相同的卡带：原始游戏男孩卡带、游戏男孩相机和双模游戏男孩彩色卡带（游戏男孩模式）</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

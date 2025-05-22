@@ -73,7 +73,7 @@
 <longdescription>卡西欧 PV-1000 （ぴーぶいせん，Pi Bui-Sen ）是卡西欧公司生产的第三代家用视频游戏机，1983 年在日本发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

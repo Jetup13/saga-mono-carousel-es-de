@@ -73,7 +73,7 @@
 <longdescription>视频播放器是一种可播放数字视频文件的软件，支持各种格式和编解码器，可实现流畅观看</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

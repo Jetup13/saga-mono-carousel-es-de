@@ -73,7 +73,7 @@
 <longdescription>任天堂 GameCube 是任天堂于 2001 年在日本和北美地区推出的家用视频游戏机，2002 年在 PAL 地区推出</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

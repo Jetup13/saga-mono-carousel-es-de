@@ -1,5 +1,5 @@
 <theme>
-	<colorScheme name="white">
+	<colorScheme name="white, white-oled">
 	<variables>
 		<textColor>FFFFFF</textColor>
 		<textldColor>C9C9C9</textldColor>
@@ -14,7 +14,7 @@
 	</variables>
 	</colorScheme>
 	
-	<colorScheme name="cloudgrey">
+	<colorScheme name="cloudgrey, cloudgrey-oled">
 	<variables>
 		<textColor>D9D9D9</textColor>
 		<textldColor>AAAAAA</textldColor>
@@ -29,7 +29,7 @@
 	</variables>
 	</colorScheme>
 	
-	<colorScheme name="washedlemon">
+	<colorScheme name="washedlemon, washedlemon-oled">
 	<variables>
 		<textColor>FFFACD</textColor>
 		<textldColor>DACF8A</textldColor>
@@ -44,7 +44,7 @@
 	</variables>
 	</colorScheme>
 
-	<colorScheme name="paleamber">
+	<colorScheme name="paleamber, paleamber-oled">
 	<variables>
 		<textColor>FFE9A9</textColor>
 		<textldColor>C9B370</textldColor>
@@ -59,7 +59,7 @@
 	</variables>
 	</colorScheme>
 	
-	<colorScheme name="mint">
+	<colorScheme name="mint, mint-oled">
 	<variables>
 		<textColor>98FFAC</textColor>
 		<textldColor>5CBF76</textldColor>
@@ -74,7 +74,7 @@
 	</variables>
 	</colorScheme>
 	
-	<colorScheme name="sagegreen">
+	<colorScheme name="sagegreen, sagegreen-oled">
 	<variables>
 		<textColor>C8D6C1</textColor>
 		<textldColor>9AA89F</textldColor>
@@ -90,7 +90,7 @@
 	</colorScheme>
 
 
-	<colorScheme name="babyblue">
+	<colorScheme name="babyblue, babyblue-oled">
 	<variables>
 		<textColor>8FD9FB</textColor>
 		<textldColor>4B8CAD</textldColor>
@@ -105,7 +105,7 @@
 	</variables>
 	</colorScheme>
 
-	<colorScheme name="dustyblue">
+	<colorScheme name="dustyblue, dustyblue-oled">
 	<variables>
 		<textColor>A7C6ED</textColor>
 		<textldColor>7A9CB8</textldColor>
@@ -120,7 +120,7 @@
 	</variables>
 	</colorScheme>
 	
-	<colorScheme name="orange">
+	<colorScheme name="orange, orange-oled">
 	<variables>
 		<textColor>FFA500</textColor>
 		<textldColor>B27100</textldColor>
@@ -135,7 +135,7 @@
 	</variables>
 	</colorScheme>
 
-	<colorScheme name="cardinalred">
+	<colorScheme name="cardinalred, cardinalred-oled">
 	<variables>
 		<textColor>BD2031</textColor>
 		<textldColor>9C3542</textldColor>
@@ -150,7 +150,7 @@
 	</variables>
 	</colorScheme>
 
-	<colorScheme name="rosymist">
+	<colorScheme name="rosymist, rosymist-oled">
 	<variables>
 		<textColor>F4C2C2</textColor>
 		<textldColor>C28F8F</textldColor>
@@ -166,7 +166,7 @@
 	</colorScheme>
 
 
-	<colorScheme name="fuchsiapink">
+	<colorScheme name="fuchsiapink, fuchsiapink-oled">
 	<variables>
 		<textColor>FF77FF</textColor>
 		<textldColor>B26AB2</textldColor>
@@ -181,7 +181,7 @@
 	</variables>
 	</colorScheme>
 
-	<colorScheme name="purple">
+	<colorScheme name="purple, purple-oled">
 	<variables>
 		<textColor>BB86FC</textColor>
 		<textldColor>8A63C8</textldColor>
@@ -193,6 +193,20 @@
 		<color3>6B00A0</color3>
 		<color4>8D33C0</color4>
 		<color5>AF66E0</color5>
+	</variables>
+	</colorScheme>
+	
+<!-- Background Colors -->
+
+	<colorScheme name="white, cloudgrey, washedlemon, paleamber, mint, sagegreen, babyblue, dustyblue, orange, cardinalred, rosymist, fuchsiapink, purple, systemcolor">
+	<variables>
+		<backgroundcolor>121212</backgroundcolor>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="white-oled, cloudgrey-oled, washedlemon-oled, paleamber-oled, mint-oled, sagegreen-oled, babyblue-oled, dustyblue-oled, orange-oled, cardinalred-oled, rosymist-oled, fuchsiapink-oled, purple-oled, systemcolor-oled">
+	<variables>
+		<backgroundcolor>000000</backgroundcolor>
 	</variables>
 	</colorScheme>
 </theme>

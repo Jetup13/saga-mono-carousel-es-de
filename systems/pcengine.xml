@@ -73,7 +73,7 @@
 <longdescription>PC Engine 是由 Hudson Soft 设计、NEC Home Electronics 销售的 16 位第四代家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

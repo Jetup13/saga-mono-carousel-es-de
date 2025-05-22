@@ -73,7 +73,7 @@
 <longdescription>任天堂 Switch 是任天堂开发和发行的第八代（2012 年至今）家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

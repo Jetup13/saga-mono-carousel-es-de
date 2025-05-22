@@ -70,7 +70,7 @@
 <longdescription>苹果 IIGS 是苹果电脑公司于 1986 年 9 月 15 日发布的一款个人电脑，它与苹果 II 系列兼容，但在其他方面的性能可与 Atari ST、Commodore Amiga 和 Macintosh 相媲美</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

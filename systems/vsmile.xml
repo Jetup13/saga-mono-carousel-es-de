@@ -73,7 +73,7 @@
 <longdescription>V.Smile（文体名称为 V.SMILE TV LEARNING SYSTEM）是伟易达生产和发布的第六代教育家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

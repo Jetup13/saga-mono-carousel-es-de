@@ -73,7 +73,7 @@
 <longdescription>Game Boy Advance（简称 GBA）是任天堂开发、制造和销售的 32 位掌上视频游戏机，是 Game Boy Color 的后继机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

@@ -73,7 +73,7 @@
 <longdescription>世嘉土星（Sega Saturn）是世嘉开发的家用视频游戏机，于 1994 年 11 月 22 日在日本、1995 年 5 月 11 日在北美、1995 年 7 月 8 日在欧洲发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

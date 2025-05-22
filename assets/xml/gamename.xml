@@ -7,7 +7,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0 0</size>
 		<visible>true</visible>
-		<fontSize>0.04</fontSize>
+		<fontSize>${gamename}</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 		<letterCase>uppercase</letterCase>
@@ -23,7 +23,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0 0</size>
 		<visible>true</visible>
-		<fontSize>0.04</fontSize>
+		<fontSize>${gamename}</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 		<letterCase>uppercase</letterCase>
@@ -39,7 +39,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0 0</size>
 		<visible>true</visible>
-		<fontSize>0.04</fontSize>
+		<fontSize>${gamename}</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 		<letterCase>uppercase</letterCase>
@@ -55,7 +55,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0 0</size>
 		<visible>true</visible>
-		<fontSize>0.04</fontSize>
+		<fontSize>${gamename}</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 		<letterCase>uppercase</letterCase>
@@ -71,7 +71,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0 0</size>
 		<visible>true</visible>
-		<fontSize>0.03</fontSize>
+		<fontSize>${gamename1-1}</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 		<letterCase>uppercase</letterCase>
@@ -87,7 +87,7 @@
 		<origin>0.5 0.5</origin>
 		<size>0 0</size>
 		<visible>true</visible>
-		<fontSize>0.04</fontSize>
+		<fontSize>${gamename}</fontSize>
 		<zIndex>15</zIndex>
 		<opacity>1</opacity>
 		<letterCase>uppercase</letterCase>

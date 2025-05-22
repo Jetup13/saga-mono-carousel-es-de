@@ -70,7 +70,7 @@
 <longdescription>任天堂 3DS，简称 3DS，是任天堂公司生产的一款便携式游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

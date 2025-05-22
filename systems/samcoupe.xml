@@ -73,7 +73,7 @@
 <longdescription>SAM Coupé（发音为/sæm ku:peɪ/，源自其最初的英式英语品牌）是一款 8 位英国家用电脑，于 1989 年底首次发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

@@ -73,7 +73,7 @@
 <longdescription>FinalBurn Neo 是一款多街机模拟器，最常用于模拟 Neo-Geo、Capcom、Konami 和 Cave 游戏</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

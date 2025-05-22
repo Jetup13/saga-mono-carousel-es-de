@@ -73,7 +73,7 @@
 <longdescription>Gamate 在台湾被称为 &quot;超級小子&quot;，在中国被称为 &quot;超级神童&quot;：超级神童（拼音：chāojí shéntóng，字面意思为 &quot;超级神童&quot;）是 Bit Corporation 在 20 世纪 90 年代初生产的一款掌上游戏机，在澳大利亚、欧洲部分地区、亚洲（台湾和中国）、阿根廷和美国发行</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

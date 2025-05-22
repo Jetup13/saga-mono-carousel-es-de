@@ -70,7 +70,7 @@
 <longdescription>Daphne 是一款街机模拟器应用程序，可以模拟各种激光视盘视频游戏，目的是保存这些游戏，并使游戏体验尽可能忠实于原作</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

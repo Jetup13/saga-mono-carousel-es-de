@@ -73,7 +73,7 @@
 <longdescription>Macintosh （自 1998 年起主要称为 Mac）是苹果公司（原名为苹果电脑公司）自 1984 年 1 月起设计、制造和销售的个人电脑系列</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

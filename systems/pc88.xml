@@ -73,7 +73,7 @@
 <longdescription>PC-8800 系列（日语：PC-8800シリーズ，合本：Pī Shī Hassen Happyaku Shirīzu），通常简称为 PC-88，是日本电气公司（NEC）于 1981 年发布的基于 Zilog Z80 的 8 位家用电脑品牌，主要在日本销售</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

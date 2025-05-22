@@ -73,7 +73,7 @@
 <longdescription>ST-V（世嘉泰坦视频）是世嘉公司于 1994 年在日本和 1995 年在全球发布的一款街机系统板卡</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

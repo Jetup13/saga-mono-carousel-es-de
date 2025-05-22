@@ -73,7 +73,7 @@
 <longdescription>世嘉 Master System 是世嘉公司生产的第三代 8 位家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

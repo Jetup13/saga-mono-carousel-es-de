@@ -70,7 +70,7 @@
 <longdescription>Welback Holdings Mega Duck，通常简称为 Mega Duck，是由 Welback Holdings 开发和发行的第四代（1987-2004 年）掌上视频游戏机，但在市场上以不同的名称销售，如 Creatronic、Videojet、Cougar USA 和 Hartung</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

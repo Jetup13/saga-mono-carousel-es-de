@@ -73,7 +73,7 @@
 <longdescription>ZX Spectrum 是辛克莱研究有限公司于 1982 年在英国发布的一款 8 位个人家用电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

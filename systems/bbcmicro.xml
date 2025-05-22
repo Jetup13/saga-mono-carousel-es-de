@@ -73,7 +73,7 @@
 <longdescription>英国广播公司微型计算机系统、BBC 微型计算机系统或最著名的 BBC Micro 是由 Acorn 计算机有限公司设计并由 BBC 经销的一系列微型计算机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

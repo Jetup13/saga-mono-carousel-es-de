@@ -73,7 +73,7 @@
 <longdescription>NEC PC-9800 是日本 NEC 公司 1982 年在 IBM 基础上开发的个人电脑系列，专门面向日本市场</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

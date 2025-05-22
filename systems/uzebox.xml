@@ -70,7 +70,7 @@
 <longdescription>Uzebox 是一款复古简约的 8 位开源游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

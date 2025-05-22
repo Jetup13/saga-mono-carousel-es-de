@@ -73,7 +73,7 @@
 <longdescription>音乐播放器是播放音频文件的软件，支持各种格式和编解码器，可实现无缝聆听</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

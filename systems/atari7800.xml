@@ -70,7 +70,7 @@
 <longdescription>雅达利 7800 Pro 系统，俗称雅达利 7800，是雅达利公司开发和销售的第三代（1983-2003 年）视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

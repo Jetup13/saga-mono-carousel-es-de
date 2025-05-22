@@ -70,7 +70,7 @@
 <longdescription>多模拟器超级系统（MESS）是一款基于 MAME 核心的模拟器，适用于各种游戏机和计算机系统</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

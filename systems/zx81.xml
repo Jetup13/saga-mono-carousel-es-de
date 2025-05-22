@@ -70,7 +70,7 @@
 <longdescription>ZX81 是一款家用电脑，由辛克莱研究公司生产，Timex 公司在苏格兰邓迪制造</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

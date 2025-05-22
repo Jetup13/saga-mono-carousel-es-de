@@ -73,7 +73,7 @@
 <longdescription>Adventure Game Studio（AGS）是一款开源开发工具，主要用于创建图形冒险游戏</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

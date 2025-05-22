@@ -20,6 +20,9 @@
 	<language>ja_JP</language>
 	<language>zh_CN</language>
 	
+	<fontSize>large</fontSize>
+	<fontSize>medium</fontSize>
+	
 	<variant name="Generic">
 		<label>Generic Carousel Sizing</label>
 		<selectable>true</selectable>
@@ -53,43 +56,85 @@
 	<colorScheme name="white">
 		<label>White</label>
 	</colorScheme>
+	<colorScheme name="white-oled">
+		<label>White (OLED)</label>
+	</colorScheme>
 	<colorScheme name="cloudgrey">
 		<label>Cloud Grey</label>
+	</colorScheme>
+	<colorScheme name="cloudgrey-oled">
+		<label>Cloud Grey (OLED)</label>
 	</colorScheme>
 	<colorScheme name="washedlemon">
 		<label>Washed Lemon</label>
 	</colorScheme>
+	<colorScheme name="washedlemon-oled">
+		<label>Washed Lemon (OLED)</label>
+	</colorScheme>
 	<colorScheme name="paleamber">
 		<label>Pale Amber</label>
+	</colorScheme>
+	<colorScheme name="paleamber-oled">
+		<label>Pale Amber (OLED)</label>
 	</colorScheme>
 	<colorScheme name="mint">
 		<label>Mint</label>
 	</colorScheme>
+	<colorScheme name="mint-oled">
+		<label>Mint (OLED)</label>
+	</colorScheme>
 	<colorScheme name="sagegreen">
 		<label>Sage Green</label>
+	</colorScheme>
+	<colorScheme name="sagegreen-oled">
+		<label>Sage Green (OLED)</label>
 	</colorScheme>
 	<colorScheme name="babyblue">
 		<label>Baby Blue</label>
 	</colorScheme>
+	<colorScheme name="babyblue-oled">
+		<label>Baby Blue (OLED)</label>
+	</colorScheme>
 	<colorScheme name="dustyblue">
 		<label>Dusty Blue</label>
+	</colorScheme>
+	<colorScheme name="dustyblue-oled">
+		<label>Dusty Blue (OLED)</label>
 	</colorScheme>
 	<colorScheme name="orange">
 		<label>Orange</label>
 	</colorScheme>
+	<colorScheme name="orange-oled">
+		<label>Orange (OLED)</label>
+	</colorScheme>
 	<colorScheme name="cardinalred">
 		<label>Cardinal Red</label>
+	</colorScheme>
+	<colorScheme name="cardinalred-oled">
+		<label>Cardinal Red (OLED)</label>
 	</colorScheme>
 	<colorScheme name="rosymist">
 		<label>Rosy Mist</label>
 	</colorScheme>
+	<colorScheme name="rosymist-oled">
+		<label>Rosy Mist (OLED)</label>
+	</colorScheme>
 	<colorScheme name="fuchsiapink">
 		<label>Fuchsia Pink</label>
+	</colorScheme>
+	<colorScheme name="fuchsiapink-oled">
+		<label>Fuchsia Pink (OLED)</label>
 	</colorScheme>
 	<colorScheme name="purple">
 		<label>Purple</label>
 	</colorScheme>
+	<colorScheme name="purple-oled">
+		<label>Purple (OLED)</label>
+	</colorScheme>
 	<colorScheme name="systemcolor">
 		<label>System Color</label>
+	</colorScheme>
+	<colorScheme name="systemcolor-oled">
+		<label>System Color (OLED)</label>
 	</colorScheme>
 </themeCapabilities>

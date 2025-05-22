@@ -70,7 +70,7 @@
 <longdescription>N64 因其 64 位中央处理器而得名，于 1996 年 6 月在日本发布，1996 年 9 月在北美发布，1997 年 3 月在欧洲和澳大利亚发布，1997 年 9 月在法国发布，1997 年 12 月在巴西发布</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

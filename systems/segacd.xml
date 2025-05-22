@@ -73,7 +73,7 @@
 <longdescription>世嘉 CD（在北美和巴西以外的大多数地区以 Mega-CD 的名称发布）是世嘉设计和生产的 Mega Drive/Genesis 的 CD-ROM 附件，是第四代视频游戏机的一部分</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

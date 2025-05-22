@@ -70,7 +70,7 @@
 <longdescription>Symbian 是一款已停产的移动操作系统（OS）和计算平台，专为智能手机设计</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

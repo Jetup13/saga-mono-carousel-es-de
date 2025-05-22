@@ -73,7 +73,7 @@
 <longdescription>Oric 是英国 Tangerine Computer Systems 公司在 20 世纪 80 年代主要在欧洲销售的一系列基于 6502 的家用电脑的名称</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

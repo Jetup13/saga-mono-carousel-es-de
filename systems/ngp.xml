@@ -73,7 +73,7 @@
 <longdescription>Neo Geo Pocket 是 SNK 推出的一款单色掌上游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

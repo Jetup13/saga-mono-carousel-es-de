@@ -73,7 +73,7 @@
 <longdescription>Wii（非官方名称为任天堂 Wii）是任天堂于 2006 年 11 月 19 日发布的一款家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

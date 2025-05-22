@@ -70,7 +70,7 @@
 <longdescription>Visual Pinball 是一款免费软件，可用于弹球台和弹珠机等类似游戏的视频游戏引擎</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

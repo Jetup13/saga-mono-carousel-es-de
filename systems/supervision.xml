@@ -73,7 +73,7 @@
 <longdescription>Watara Supervision，在英国又称 QuickShot Supervision，是一种单色掌上游戏机，源自亚洲，于 1992 年推出，是任天堂 Game Boy 的廉价竞争对手</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

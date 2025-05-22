@@ -73,7 +73,7 @@
 <longdescription>Acorn Archimedes 是英国剑桥 Acorn Computers 公司设计的个人电脑系列</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

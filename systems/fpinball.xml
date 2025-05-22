@@ -73,7 +73,7 @@
 <longdescription>Future Pinball"FP"是一款适用于 Microsoft Windows 的免费 3D 弹球编辑和游戏应用程序</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

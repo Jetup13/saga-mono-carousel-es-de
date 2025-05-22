@@ -73,7 +73,7 @@
 <longdescription>世嘉 NAOMI 2 是世嘉公司开发的一款街机游戏板，是世嘉 NAOMI 硬件的后续产品</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

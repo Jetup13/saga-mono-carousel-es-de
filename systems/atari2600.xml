@@ -70,7 +70,7 @@
 <longdescription>雅达利视频计算机系统（VCS），后被命名为雅达利 2600，是雅达利公司开发和销售的第二代（1976-1992 年）家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

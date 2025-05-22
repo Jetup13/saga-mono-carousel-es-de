@@ -70,7 +70,7 @@
 <longdescription>Dragon 32 和 Dragon 64 是 20 世纪 80 年代制造的家用电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

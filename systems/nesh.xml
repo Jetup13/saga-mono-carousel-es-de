@@ -73,7 +73,7 @@
 <longdescription>任天堂娱乐系统是任天堂于 1985 年在北美、1986 年在欧洲、1987 年在澳大利亚推出的 8 位视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

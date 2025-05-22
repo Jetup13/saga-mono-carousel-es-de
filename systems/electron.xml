@@ -73,7 +73,7 @@
 <longdescription>Acorn Electron（在 Acorn 及其他公司绰号为 Elk）是 BBC Micro 教育/家用电脑的低成本替代产品，也是由 Acorn 计算机有限公司开发的，它提供了更昂贵机器的许多功能，价格却比 ZX Spectrum 更有竞争力</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>564800</color1>
 <color2>786600</color2>

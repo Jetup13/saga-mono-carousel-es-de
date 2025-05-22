@@ -73,7 +73,7 @@
 <longdescription>SuFami Turbo（スーファミターボ）经常被拿来与阿拉丁 Deck Enhancer（甲板增强器）相比较，是 Bandai 于 1996 年为任天堂的 Super Famicom 系统推出的一款配件</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

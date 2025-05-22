@@ -73,7 +73,7 @@
 <longdescription>MS-DOS 是 Microsoft Disk Operating System（微软磁盘操作系统）的简称，是主要由微软公司开发的基于 x86 的个人计算机操作系统</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

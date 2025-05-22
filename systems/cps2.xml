@@ -73,7 +73,7 @@
 <longdescription>CP System II（CPシステムII，shīpī shisutemu tsū）或 CPS-2 是卡普空于 1993 年首次用于《超级街头霸王 II》的街机系统板</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

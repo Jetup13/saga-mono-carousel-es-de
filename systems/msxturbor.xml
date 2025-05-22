@@ -73,7 +73,7 @@
 <longdescription>MSX Turbo R 是最后一代由家用电子品牌投放市场的 MSX 电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

@@ -70,7 +70,7 @@
 <longdescription>PalmPilot Personal 和 PalmPilot Professional 是 Palm 公司（当时是 U</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

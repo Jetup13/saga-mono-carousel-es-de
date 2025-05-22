@@ -73,7 +73,7 @@
 <longdescription>Neo Geo CD（日语：ネオジオCD，合本：Neo Jio Shī Dī）是 SNK 公司的 Neo Geo 系列的第二款家用视频游戏机，于 1994 年 9 月 9 日发布，比同类卡带游戏机晚了四年</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

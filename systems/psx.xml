@@ -73,7 +73,7 @@
 <longdescription>索尼 PlayStation，简称 PS，是索尼互动娱乐公司开发和发行的第五代（1993-2005 年）家用视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

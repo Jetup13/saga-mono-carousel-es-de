@@ -73,7 +73,7 @@
 <longdescription>世嘉 Genesis（在北美以外的大多数地区称为 Mega Drive）是世嘉企业有限公司（Sega Enterprises, Ltd</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

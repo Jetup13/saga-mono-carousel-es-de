@@ -73,7 +73,7 @@
 <longdescription>Game Boy 是任天堂开发和制造的一款 8 位掌上视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

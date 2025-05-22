@@ -73,7 +73,7 @@
 <longdescription>2000 年代初，街机系统制造商开始放弃定制板卡设计，许多公司转而采用标准 PC 架构</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

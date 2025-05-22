@@ -70,7 +70,7 @@
 <longdescription>CDTV （&quot;Commodore Dynamic Total Vision &quot;的缩写，是 &quot;Compact Disc Television &quot;的缩写，具有双重含义）是由 Commodore International 开发的多媒体平台，于 1991 年 3 月推出</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>

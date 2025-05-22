@@ -70,7 +70,7 @@
 <longdescription>TI-99/4 是德州仪器公司于 1979 年底发布的一款家用电脑</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

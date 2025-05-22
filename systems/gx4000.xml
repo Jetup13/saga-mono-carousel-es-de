@@ -73,7 +73,7 @@
 <longdescription>Amstrad GX4000，俗称 GX4000，是 Amstrad 开发和销售的第三代（1983-2003 年）视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>144400</color1>
 <color2>2C6600</color2>

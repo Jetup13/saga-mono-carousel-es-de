@@ -73,7 +73,7 @@
 <longdescription>X68000（日语：エックス ろくまんはっせん，合称：Ekusu Rokuman Hassen）是夏普公司制造的家用电脑，于 1987 年首次发布，仅在日本销售</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>303030</color1>
 <color2>505050</color2>

@@ -70,7 +70,7 @@
 <longdescription>ChaiLove 是一个超棒的框架，你可以用它在 ChaiScript 中制作 2D 游戏</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

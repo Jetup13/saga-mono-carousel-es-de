@@ -70,7 +70,7 @@
 <longdescription>高级娱乐系统（AES）最初仅称为 Neo Geo，是该家族的第一款视频游戏机</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>63360E</color1>
 <color2>804410</color2>

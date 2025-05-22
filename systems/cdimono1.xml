@@ -73,7 +73,7 @@
 <longdescription>飞利浦 CD-i（交互式光盘）是一种交互式多媒体 CD 播放器，由皇家飞利浦电子公司开发和销售</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>390056</color1>
 <color2>520077</color2>

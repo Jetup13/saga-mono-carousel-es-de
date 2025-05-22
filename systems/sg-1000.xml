@@ -73,7 +73,7 @@
 <longdescription>SG-1000 是世嘉公司生产的家用视频游戏机，在日本、澳大利亚、新西兰和其他地区发行</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>003A63</color1>
 <color2>00507F</color2>

@@ -70,7 +70,7 @@
 <longdescription>毁灭战士》（Doom）是 id Software 公司于 1993 年在 MS-DOS 平台上开发的一款第一人称射击游戏（FPS）</longdescription>
 </variables>
 </language>
-<colorScheme name="systemcolor">
+<colorScheme name="systemcolor, systemcolor-oled">
 <variables>
 <color1>3F0000</color1>
 <color2>5F0000</color2>
