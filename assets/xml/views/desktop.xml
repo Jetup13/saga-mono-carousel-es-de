@@ -1,3 +1,88 @@
 <theme>
 <include>./template/dvd.xml</include>
+<view name="system">
+<text name="sys_line2">
+<text>Desktop</text>
+</text>
+<text name="shortdescription">
+<text>Shortcuts</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<view name="system, gamelist">
+<text name="sys_line3">
+<text>Desktop</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>View and run your Desktop shortcuts</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>Ver y ejecutar los accesos directos del Escritorio</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>Afficher et exécuter les raccourcis de votre bureau</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Visualizzare ed eseguire i collegamenti al desktop</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>Wyświetlanie i uruchamianie skrótów na pulpicie</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>Exibir e executar os atalhos da área de trabalho</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>Vizualizați și rulați comenzile rapide de pe desktop</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>Просмотр и запуск ярлыков на рабочем столе</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>Visa och kör dina genvägar på skrivbordet</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>デスクトップショートカットの表示と実行</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>查看和运行桌面快捷方式</longdescription>
+</variables>
+</language>
+<colorScheme name="systemcolor, systemcolor-oled">
+<variables>
+<color1>390056</color1>
+<color2>520077</color2>
+<color3>6B00A0</color3>
+<color4>8D33C0</color4>
+<color5>AF66E0</color5>
+<textColor>9b59b6</textColor>
+<textsdColor>9b59b6</textsdColor>
+<selectorColor>8e44ad</selectorColor>
+<selectedText>eadcf4</selectedText>
+<textldColor>eadcf4</textldColor>
+</variables>
+</colorScheme>
 </theme>

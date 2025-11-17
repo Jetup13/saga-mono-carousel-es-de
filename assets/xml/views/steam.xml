@@ -1,3 +1,91 @@
 <theme>
 <include>./template/dvd.xml</include>
+<view name="system">
+<text name="sys_line1">
+<text>Valve</text>
+</text>
+<text name="sys_line2">
+<text>Steam</text>
+</text>
+<text name="shortdescription">
+<text>2003  ·  Digital Platform</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<view name="system, gamelist">
+<text name="sys_line3">
+<text>Valve Steam</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>Steam es un servicio de distribución digital de videojuegos y tienda de Valve</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>Steam est un service de distribution numérique de jeux vidéo et une vitrine de Valve</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Steam è un servizio di distribuzione digitale di videogiochi e un negozio di Valve</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>Steam to usługa cyfrowej dystrybucji gier wideo i witryna sklepowa firmy Valve</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>O Steam é um serviço de distribuição digital de videogames e uma loja da Valve</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>Steam este un serviciu de distribuție digitală de jocuri video și o vitrină de magazin de la Valve</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>Steam - это сервис цифровой дистрибуции видеоигр и магазин компании Valve</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>Steam är en digital distributionstjänst för videospel och ett skyltfönster från Valve</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>Steamは、Valveによるビデオゲームのデジタル配信サービスおよびストアフロントである</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>Steam 是 Valve 推出的视频游戏数字发行服务和店面</longdescription>
+</variables>
+</language>
+<colorScheme name="systemcolor, systemcolor-oled">
+<variables>
+<color1>003A63</color1>
+<color2>00507F</color2>
+<color3>0066A0</color3>
+<color4>1A7FC0</color4>
+<color5>33A3E0</color5>
+<textColor>3498db</textColor>
+<textsdColor>3498db</textsdColor>
+<selectorColor>2c80b4</selectorColor>
+<selectedText>d6ecfa</selectedText>
+<textldColor>d6ecfa</textldColor>
+</variables>
+</colorScheme>
 </theme>

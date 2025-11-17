@@ -12,7 +12,6 @@
 	<include>./assets/xml/systemshortdescription.xml</include>
 	<include>./assets/xml/variables.xml</include>
 	<include>./assets/xml/colors.xml</include>
-	<include>./systems/${system.theme}.xml</include>
 	<include>./assets/xml/views/${system.theme}.xml</include>
 
 <!-- System View -->

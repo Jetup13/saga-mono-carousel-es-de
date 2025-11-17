@@ -1,3 +1,91 @@
 <theme>
 <include>./template/generic.xml</include>
+<view name="system">
+<text name="sys_line1">
+<text>VTech</text>
+</text>
+<text name="sys_line2">
+<text>V.Smile</text>
+</text>
+<text name="shortdescription">
+<text>2004  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<view name="system, gamelist">
+<text name="sys_line3">
+<text>VTech V.Smile</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>The V.Smile is a sixth-generation educational home video game console manufactured and released by VTec</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>La V.Smile (estilizada como V.SMILE TV LEARNING SYSTEM) es una videoconsola doméstica educativa de sexta generación fabricada y comercializada por VTech</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>Le V.Smile (stylisé en tant que V.SMILE TV LEARNING SYSTEM) est une console de jeux vidéo éducative de sixième génération fabriquée et commercialisée par VTech</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Il V.Smile (stilizzato come V.SMILE TV LEARNING SYSTEM) è una console per videogiochi educativi di sesta generazione prodotta e distribuita da VTech</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>V.Smile (stylizowany na V.SMILE TV LEARNING SYSTEM) to edukacyjna domowa konsola do gier wideo szóstej generacji wyprodukowana i wydana przez firmę VTech</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>O V.Smile (estilizado como V.SMILE TV LEARNING SYSTEM) é um console de videogame doméstico educacional de sexta geração fabricado e lançado pela VTech</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>V.Smile (stilizat ca V.SMILE TV LEARNING SYSTEM) este o consolă de jocuri video educaționale de a șasea generație fabricată și lansată de VTech</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>V.Smile (стилизованное название V.SMILE TV LEARNING SYSTEM) - это образовательная домашняя игровая приставка шестого поколения, выпускаемая компанией VTech. Игры выпускаются на картриджах ROM, называемых "Smartridges", чтобы подчеркнуть образовательный характер системы</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>V.Smile (stiliserat som V.SMILE TV LEARNING SYSTEM) är en sjätte generationens pedagogisk hemkonsol för videospel som tillverkas och släpps av VTech</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>V.スマイル（V.SMILE TV LEARNING SYSTEM）は、VTech社が製造・発売した第6世代の教育用家庭用ビデオゲーム機である</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>V.Smile（文体名称为 V.SMILE TV LEARNING SYSTEM）是伟易达生产和发布的第六代教育家用视频游戏机</longdescription>
+</variables>
+</language>
+<colorScheme name="systemcolor, systemcolor-oled">
+<variables>
+<color1>63360E</color1>
+<color2>804410</color2>
+<color3>9C5514</color3>
+<color4>BB6A18</color4>
+<color5>D9801C</color5>
+<textColor>e67e22</textColor>
+<textsdColor>e67e22</textsdColor>
+<selectorColor>ca6f1e</selectorColor>
+<selectedText>fbe8d3</selectedText>
+<textldColor>fbe8d3</textldColor>
+</variables>
+</colorScheme>
 </theme>

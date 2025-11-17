@@ -1,3 +1,88 @@
 <theme>
 <include>./template/square1.xml</include>
+<view name="system">
+<text name="sys_line2">
+<text>Amiga CDTV</text>
+</text>
+<text name="shortdescription">
+<text>1991  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<view name="system, gamelist">
+<text name="sys_line3">
+<text>Amiga CDTV</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>The CDTV is a multimedia platform developed by Commodore International and launched in March 1991</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>El CDTV (acrónimo de &quot;Commodore Dynamic Total Vision&quot;, acrónimo de &quot;Compact Disc Television&quot;, lo que le confiere un doble significado) es una plataforma multimedia desarrollada por Commodore International y lanzada al mercado en marzo de 1991</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>Le CDTV (un acronyme pour &quot;Commodore Dynamic Total Vision&quot;, un backronyme d'un acronyme pour &quot;Compact Disc Television&quot;, lui donnant une double signification) est une plate-forme multimédia développée par Commodore International et lancée en mars 1991</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Il CDTV (acronimo di &quot;Commodore Dynamic Total Vision&quot;, un backronym di un acronimo per &quot;Compact Disc Television&quot;, che gli conferisce un doppio significato) è una piattaforma multimediale sviluppata da Commodore International e lanciata nel marzo 1991</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>CDTV (akronim od &quot;Commodore Dynamic Total Vision&quot;, backronim akronimu &quot;Compact Disc Television&quot;, nadający mu podwójne znaczenie) to platforma multimedialna opracowana przez Commodore International i wprowadzona na rynek w marcu 1991 roku</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>A CDTV (um acrônimo para &quot;Commodore Dynamic Total Vision&quot;, um acrônimo de um acrônimo para &quot;Compact Disc Television&quot;, o que lhe confere um duplo significado) é uma plataforma multimídia desenvolvida pela Commodore International e lançada em março de 1991</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>CDTV (un acronim pentru &quot;Commodore Dynamic Total Vision&quot;, un backronim al unui acronim pentru &quot;Compact Disc Television&quot;, oferindu-i un dublu sens) este o platformă multimedia dezvoltată de Commodore International și lansată în martie 1991</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>CDTV (аббревиатура от &quot;Commodore Dynamic Total Vision&quot;, обратная аббревиатура от &quot;Compact Disc Television&quot;, что придает ей двойной смысл) - мультимедийная платформа, разработанная компанией Commodore International и выпущенная в марте 1991 года</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>CDTV (en akronym för &quot;Commodore Dynamic Total Vision&quot;, en förkortning av en akronym för &quot;Compact Disc Television&quot;, vilket ger den en dubbel betydelse) är en multimedia-plattform som utvecklats av Commodore International och lanserades i mars 1991</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>CDTV（「コモドール・ダイナミック・トータル・ビジョン」の頭文字をとったもので、「コンパクト・ディスク・テレビジョン」の頭文字をとった二重の意味がある）は、コモドールインターナショナルが開発し、1991年3月に発売されたマルチメディア・プラットフォームである</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>CDTV （&quot;Commodore Dynamic Total Vision &quot;的缩写，是 &quot;Compact Disc Television &quot;的缩写，具有双重含义）是由 Commodore International 开发的多媒体平台，于 1991 年 3 月推出</longdescription>
+</variables>
+</language>
+<colorScheme name="systemcolor, systemcolor-oled">
+<variables>
+<color1>3F0000</color1>
+<color2>5F0000</color2>
+<color3>7F0000</color3>
+<color4>9F0000</color4>
+<color5>BF0000</color5>
+<textColor>e74c3c</textColor>
+<textsdColor>e74c3c</textsdColor>
+<selectorColor>c0392b</selectorColor>
+<selectedText>f9d6d3</selectedText>
+<textldColor>f9d6d3</textldColor>
+</variables>
+</colorScheme>
 </theme>

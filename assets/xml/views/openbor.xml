@@ -1,3 +1,88 @@
 <theme>
 <include>./template/generic.xml</include>
+<view name="system">
+<text name="sys_line2">
+<text>OpenBOR</text>
+</text>
+<text name="shortdescription">
+<text>2005  ·  Game Engine</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<view name="system, gamelist">
+<text name="sys_line3">
+<text>OpenBOR</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>OpenBOR is a royalty free sprite based side scrolling gaming engine</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>Beats of Rage es un juego tributo a la serie Streets of Rage de Sega hecho por fans</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>Beats of Rage est un jeu créé par des fans en hommage à la série Streets of Rage de Sega</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Beats of Rage è un gioco tributo fatto dai fan alla serie Streets of Rage di Sega</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>Beats of Rage to stworzona przez fanów gra będąca hołdem dla serii Streets of Rage firmy Sega</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>Beats of Rage é um jogo tributo feito por fãs à série Streets of Rage da Sega</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>Beats of Rage este un joc tribut făcut de fani pentru seria Streets of Rage de la Sega</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>Beats of Rage - это фанатская игра, посвященная серии Streets of Rage от Sega</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>Beats of Rage är ett fan-skapat hyllningsspel till Segas Streets of Rage-serie</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>Beats of Rage』は、セガの『ストリート・オブ・レイジ』シリーズのファンメイド・トリビュートゲームである</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>Beats of Rage》是一款粉丝制作的向世嘉《Streets of Rage》系列致敬的游戏</longdescription>
+</variables>
+</language>
+<colorScheme name="systemcolor, systemcolor-oled">
+<variables>
+<color1>63360E</color1>
+<color2>804410</color2>
+<color3>9C5514</color3>
+<color4>BB6A18</color4>
+<color5>D9801C</color5>
+<textColor>e67e22</textColor>
+<textsdColor>e67e22</textsdColor>
+<selectorColor>ca6f1e</selectorColor>
+<selectedText>fbe8d3</selectedText>
+<textldColor>fbe8d3</textldColor>
+</variables>
+</colorScheme>
 </theme>

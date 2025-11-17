@@ -1,3 +1,91 @@
 <theme>
 <include>./template/generic.xml</include>
+<view name="system">
+<text name="sys_line1">
+<text>All</text>
+</text>
+<text name="sys_line2">
+<text>Games</text>
+</text>
+<text name="shortdescription">
+<text>Collection</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<view name="system, gamelist">
+<text name="sys_line3">
+<text>All Games</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>View and play every game across your entire library</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>Visualiza y juega a todos los juegos de tu biblioteca</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>Visualisez et jouez à tous les jeux de votre bibliothèque</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Visualizzate e giocate a tutti i giochi della vostra libreria</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>Przeglądaj i graj w każdą grę w całej swojej bibliotece</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>Visualize e jogue todos os jogos de toda a sua biblioteca</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>Vizualizați și jucați fiecare joc din întreaga dvs</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>Просматривайте и играйте в каждую игру из всей вашей библиотеки</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>Visa och spela varje spel i hela ditt bibliotek</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>ライブラリ全体のすべてのゲームを表示し、再生します</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>查看并玩遍整个游戏库中的每款游戏</longdescription>
+</variables>
+</language>
+<colorScheme name="systemcolor, systemcolor-oled">
+<variables>
+<color1>003A63</color1>
+<color2>00507F</color2>
+<color3>0066A0</color3>
+<color4>1A7FC0</color4>
+<color5>33A3E0</color5>
+<textColor>3498db</textColor>
+<textsdColor>3498db</textsdColor>
+<selectorColor>2c80b4</selectorColor>
+<selectedText>d6ecfa</selectedText>
+<textldColor>d6ecfa</textldColor>
+</variables>
+</colorScheme>
 </theme>
