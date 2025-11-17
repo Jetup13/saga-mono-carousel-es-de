@@ -1,5 +1,5 @@
 <theme>
-<include>./template/longskinnycase.xml</include>
+<include>./template/rectangle2.xml</include>
 <view name="system">
 <text name="sys_line1">
 <text>Super Nintendo</text>
