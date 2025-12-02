@@ -121,15 +121,15 @@
 
 	<variant name="Meta">
 	<view name="gamelist">
-	<text name="developer, publisher, players, textdev, textpub, textplayer, textdesc, description">
+	<text name="developer, genre, playtime, textdev, textgenre, textplaytime, textdesc, description">
 		<fontPath>${font}</fontPath>
 	</text>
 
-	<text name="textdev, textpub, textplayer, textdesc">
+	<text name="developer, textdev, genre, playtime, textdesc">
 		<color>${graytext}</color>
 	</text>
 
-	<text name="developer, publisher, players, description">
+	<text name="description">
 		<color>${graysmedium}</color>
 	</text>
 

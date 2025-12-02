@@ -2,49 +2,28 @@
 	<variant name="Meta">
 	<aspectRatio name="16:9">
 	<view name="gamelist">
-	<text name="textdev">
-		<text>Developer -</text>
+	<text name="developer">
+		<metadata>developer</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="developer">
-		<metadata>developer</metadata>
-		<pos>0.82 0.45</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textpub">
-		<text>Publisher  -</text>
+	<text name="genre">
+		<metadata>genre</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="publisher">
-		<metadata>publisher</metadata>
-		<pos>0.82 0.5</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textplayer">
-		<text>Players      -</text>
+	<text name="playtime">
+		<metadata>playtime</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.55</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="players">
-		<metadata>players</metadata>
-		<pos>0.82 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
@@ -82,49 +61,28 @@
 
 	<aspectRatio name="16:10">
 	<view name="gamelist">
-	<text name="textdev">
-		<text>Developer -</text>
+	<text name="developer">
+		<metadata>developer</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="developer">
-		<metadata>developer</metadata>
-		<pos>0.83 0.45</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textpub">
-		<text>Publisher  -</text>
+	<text name="genre">
+		<metadata>genre</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="publisher">
-		<metadata>publisher</metadata>
-		<pos>0.83 0.5</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textplayer">
-		<text>Players      -</text>
+	<text name="playtime">
+		<metadata>playtime</metadata>
+		<defaultValue>Unplayed</defaultValue>
 		<pos>0.7 0.55</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="players">
-		<metadata>players</metadata>
-		<pos>0.83 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
@@ -162,49 +120,28 @@
 
 	<aspectRatio name="19.5:9">
 	<view name="gamelist">
-	<text name="textdev">
-		<text>Developer -</text>
+	<text name="developer">
+		<metadata>developer</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="developer">
-		<metadata>developer</metadata>
-		<pos>0.8 0.45</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textpub">
-		<text>Publisher  -</text>
+	<text name="genre">
+		<metadata>genre</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="publisher">
-		<metadata>publisher</metadata>
-		<pos>0.8 0.5</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textplayer">
-		<text>Players      -</text>
+	<text name="playtime">
+		<metadata>playtime</metadata>
+		<defaultValue>Unplayed</defaultValue>
 		<pos>0.7 0.55</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="players">
-		<metadata>players</metadata>
-		<pos>0.8 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
@@ -242,49 +179,28 @@
 
 	<aspectRatio name="21:9">
 	<view name="gamelist">
-	<text name="textdev">
-		<text>Developer -</text>
+	<text name="developer">
+		<metadata>developer</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="developer">
-		<metadata>developer</metadata>
-		<pos>0.79 0.45</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textpub">
-		<text>Publisher  -</text>
+	<text name="genre">
+		<metadata>genre</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="publisher">
-		<metadata>publisher</metadata>
-		<pos>0.79 0.5</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textplayer">
-		<text>Players      -</text>
+	<text name="playtime">
+		<metadata>playtime</metadata>
+		<defaultValue>Unplayed</defaultValue>
 		<pos>0.7 0.55</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="players">
-		<metadata>players</metadata>
-		<pos>0.79 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
@@ -322,17 +238,10 @@
 	
 	<aspectRatio name="1:1">
 	<view name="gamelist">
-	<text name="textdev">
-		<text>Developer :</text>
-		<pos>0.7 0.45</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
 	<text name="developer">
 		<metadata>developer</metadata>
-		<pos>0.7 0.5</pos>
+		<defaultValue>:space:</defaultValue>
+		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont}</fontSize>
@@ -370,49 +279,28 @@
 
 	<aspectRatio name="4:3">
 	<view name="gamelist">
-	<text name="textdev">
-		<text>Developer -</text>
+	<text name="developer">
+		<metadata>developer</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.45</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="developer">
-		<metadata>developer</metadata>
-		<pos>0.85 0.45</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont4-3}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textpub">
-		<text>Publisher  -</text>
+	<text name="genre">
+		<metadata>genre</metadata>
+		<defaultValue>:space:</defaultValue>
 		<pos>0.7 0.5</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont4-3}</fontSize>
 		<lineSpacing>1</lineSpacing>
 	</text>
-	<text name="publisher">
-		<metadata>publisher</metadata>
-		<pos>0.85 0.5</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont4-3}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="textplayer">
-		<text>Players      -</text>
+	<text name="playtime">
+		<metadata>playtime</metadata>
+		<defaultValue>Unplayed</defaultValue>
 		<pos>0.7 0.55</pos>
-		<origin>0.5 0.5</origin>
-		<size>.48 .3</size>
-		<fontSize>${metafont4-3}</fontSize>
-		<lineSpacing>1</lineSpacing>
-	</text>
-	<text name="players">
-		<metadata>players</metadata>
-		<pos>0.85 0.55</pos>
 		<origin>0.5 0.5</origin>
 		<size>.48 .3</size>
 		<fontSize>${metafont4-3}</fontSize>
