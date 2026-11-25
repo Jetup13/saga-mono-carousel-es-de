@@ -1,5 +1,5 @@
 <theme>
-<include>./template/rectangle2.xml</include>
+<include>./template/dvd.xml</include>
 <view name="system">
 <text name="sys_line1">
 <text>Sega</text>
